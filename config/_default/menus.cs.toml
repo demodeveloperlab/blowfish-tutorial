@@ -11,110 +11,110 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Mission"
+  name = "Poslání"
   pageRef = "posts"
   weight = 10
 
 [[main]]
   name = "About"
-  parent = "Mission"
+  parent = "Poslání"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Success Stories"
-  parent = "Mission"
+  name = "Příběhy Úspěchu"
+  parent = "Poslání"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Failures and Learnings"
-  parent = "Mission"
+  name = "Neúspěch a Učební Zkušenosti"
+  parent = "Poslání"
   pageRef = "posts"
   weight = 30
 
 [[main]]
-  name = "Events"
+  name = "Události"
   weight = 20
 
 [[main]]
-  name = "Upcoming Events"
-  parent = "Events"
+  name = "Nadcházející Akce"
+  parent = "Události"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Public Group"
-  parent = "Events"
+  name = "Veřejné Skupiny"
+  parent = "Události"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Publications"
+  name = "Publikace"
   weight = 30
 
 [[main]]
-  name = "Posts"
-  parent = "Publications"
+  name = "Články"
+  parent = "Publikace"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Books"
-  parent = "Publications"
+  name = "Knihy"
+  parent = "Publikace"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Courses"
+  name = "Kurzy"
   weight = 40
 
 [[main]]
-  name = "Course Connection"
+  name = "Kurz Spojení"
   parent = "Courses"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Course Practice"
+  name = "Praxe Spojení"
   parent = "Courses"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "Sources"
+  name = "Zdroje"
   weight = 50
 
 [[main]]
-  name = "Reading"
-  parent = "Sources"
+  name = "Čtu"
+  parent = "Zdroje"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Links"
-  parent = "Sources"
+  name = "Stránky"
+  parent = "Zdroje"
   pageRef = "posts"
   weight = 20
 
 [[main]]
   name = "Sitemap"
-  parent = "Sources"
+  parent = "Zdroje"
   pageRef = "posts"
   weight = 30
 
 [[main]]
-  name = "Contact"
+  name = "Kontakt"
   weight = 60
 
 [[main]]
-  name = "Contact Form"
+  name = "Kontakní Forma"
   parent = "Contact"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Inner Group"
+  name = "Vnitřní Skupina"
   parent = "Contact"
   pageRef = "posts"
   weight = 20
