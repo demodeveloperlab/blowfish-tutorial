@@ -1,7 +1,11 @@
-<!-- /Hero -->
+---
+title: ""
+description: "This is a demo of the Blowfish theme for Hugo."
+---
+<!-- hero -->
 <section>
 <div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
-      <div class="lg:col-12 pt-30 mb-8 text-center">
+      <div class="mx-auto max-w-xl text-center text-center">
         <h1 class="mb-8 font-extrabold text-primary-600 dark:text-primary-400" style="font-size:4.5rem">
             TITLE
           </h1>
@@ -16,15 +20,14 @@
           <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-center">
             Ask a Question
             <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-            </svg>
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
         </a>
     </div>
 </div>
 </section>
 <!-- /Hero -->
 <!-- Quote -->
-<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mb-20 rounded-lg text-neutral-50">
+<div class="bg-primary-500 py-6 mt-30 mb-20 rounded-lg text-neutral-50">
 <div class="container text-center text-lg">
 Philosophy: Keep It Simple Stupid principle. Delicate dance of flow and elegance!
 </div>
@@ -401,8 +404,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="flex">
     <div class="mr-2">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-      </svg>            
+        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -415,8 +417,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     <div class="flex">
       <div class="mr-2">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-          <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-        </svg>            
+          <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
       </div>
       <div>
         <h3 class="mb-4 text-xl font-bold">
@@ -429,8 +430,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="flex">
     <div class="mr-2">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-      </svg>            
+        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -443,8 +443,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="flex">
     <div class="mr-2">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-      </svg>            
+        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -457,8 +456,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="flex">
     <div class="mr-2">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-      </svg>            
+        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -472,8 +470,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="flex">
     <div class="mr-2">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-      </svg>            
+        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
