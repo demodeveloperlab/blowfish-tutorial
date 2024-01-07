@@ -69,7 +69,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
       </p>
     </div>
   </div>
-    <div class="flex">
+    <div class="flex inline-block">
       <div class="mr-4">
         <span class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-primary-600 dark:bg-primary-500 text-neutral-50 shadow-xl">
           <svg class="w-6 h-6 text-white dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
