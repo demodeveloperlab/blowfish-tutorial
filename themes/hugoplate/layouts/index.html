@@ -1,0 +1,533 @@
+{{ define "main" }}
+    <!-- Banner -->
+    {{ with .Params.banner }}
+    <section class="section pt-14">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-7 mb-8 text-center">
+            <h1 class="mb-4">
+              {{ .title | markdownify }}
+            </h1>
+            <p class="mb-8">
+              {{ .content | markdownify }}
+            </p>
+            {{ with .button }}
+              {{ if .enable }}
+              <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
+                Get started
+                <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                </svg>
+            </a>
+            <a href="#" class="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
+                Learn more
+            </a>  
+              {{ end }}
+            {{ end }}
+          </div>
+          <div class="col-12">
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" ) }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Banner -->
+   <!-- Features -->
+   <div class="bg-gradient-to-r from-slate-900 to-slate-700 border-border dark:border-darkmode-border border-t py-7">
+    <div class="text-light dark:text-darkmode-light container text-center text-lg">
+        <svg class="flex-shrink-0 inline w-4 h-4 me-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+          <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5ZM9.5 4a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM12 15H8a1 1 0 0 1 0-2h1v-3H8a1 1 0 0 1 0-2h2a1 1 0 0 1 1 1v4h1a1 1 0 0 1 0 2Z"/>
+        </svg>
+       Philosophy: Simplicity, Best Practices and High Performance
+    </div>
+  </div>
+  <!-- FAQ -->
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+      <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+        <span class="relative inline-block">
+          <span class="relative">The quick, brown fox jumps over a lazy dog</span>
+      </h2>
+      <p class="text-base md:text-lg">
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
+      </p>
+    </div>
+    <div class="grid max-w-screen-lg gap-8 row-gap-10 mx-auto lg:grid-cols-2">
+      <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
+        <div class="mr-4">
+          <div class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-blue-700">
+            <svg class="w-10 h-10 text-white w-10" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+        </div>
+        <div>
+          <h6 class="mb-3 text-3xl text-900">The deep ocean</h6>
+          <p class="mb-3 text-lg text-900">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to.
+          </p>
+        </div>
+      </div>
+      <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
+        <div class="mr-4">
+          <div class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-blue-700">
+            <svg class="w-10 h-10 text-white w-10" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+        </div>
+        <div>
+          <h6 class="mb-3 text-3xl text-900">The deep ocean</h6>
+          <p class="mb-3 text-lg text-900">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to.
+          </p>
+        </div>
+      </div>
+      <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
+        <div class="mr-4">
+          <div class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-blue-700">
+            <svg class="w-10 h-10 text-white w-10" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+        </div>
+        <div>
+          <h6 class="mb-3 text-3xl text-900">The deep ocean</h6>
+          <p class="mb-3 text-lg text-900">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to.
+          </p>
+        </div>
+      </div>
+      <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
+        <div class="mr-4">
+          <div class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-blue-700">
+            <svg class="w-10 h-10 text-white w-10" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+        </div>
+        <div>
+          <h6 class="mb-3 text-3xl text-900">The deep ocean</h6>
+          <p class="mb-3 text-lg text-900">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to.
+          </p>
+        </div>
+      </div>
+      <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
+        <div class="mr-4">
+          <div class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-blue-700">
+            <svg class="w-10 h-10 text-white w-10" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+        </div>
+        <div>
+          <h6 class="mb-3 text-3xl text-900">The deep ocean</h6>
+          <p class="mb-3 text-lg text-900">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to.
+          </p>
+        </div>
+      </div>
+      <div class="flex flex-col max-w-md sm:mx-auto sm:flex-row">
+        <div class="mr-4">
+          <div class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-blue-700">
+            <svg class="w-10 h-10 text-white w-10" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+        </div>
+        <div>
+          <h6 class="mb-3 text-3xl text-900">The deep ocean</h6>
+          <p class="mb-3 text-lg text-900">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear. We never had the chance to.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Features -->
+    <!-- time -->
+  
+    {{ range $i, $e:= .Params.features }}
+    <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div
+            class="mb:md-0 {{ if not (modBool $i 2) }}
+              md:order-2
+            {{ end }} md:col-5 mb-6">
+            {{ partial "image" (dict "Src" .image "Alt" "feature image") }}
+          </div>
+          <div
+            class="{{ if not (modBool $i 2) }}
+              md:order-1
+            {{ end }} md:col-7 lg:col-6">
+            <h2 class="mb-4">
+              {{ .title | markdownify }}
+            </h2>
+            <p class="mb-8 text-lg">
+              {{ .content | markdownify }}
+            </p>
+            <ul>
+              {{ range .bulletpoints }}
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  {{ . | markdownify }}
+                </li>
+              {{ end }}
+            </ul>
+            {{ with .button }}
+              {{ if .enable }}
+                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
+                  {{ .label }}
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Features -->
+   <!-- time -->
+   <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="grid gap-6 row-gap-10 lg:grid-cols-2">
+      <div class="lg:py-6 lg:pr-16">
+        <div class="flex">
+          <div class="flex flex-col items-center mr-4">
+            <div>
+              <div class="flex items-center justify-center w-10 h-10 border rounded-full">
+                <svg class="w-4 text-gray-600" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                  <line fill="none" stroke-miterlimit="10" x1="12" y1="2" x2="12" y2="22"></line>
+                  <polyline fill="none" stroke-miterlimit="10" points="19,15 12,22 5,15"></polyline>
+                </svg>
+              </div>
+            </div>
+            <div class="w-px h-full bg-gradient-to-r from-red-500 to-orange-500"></div>
+          </div>
+          <div class="pt-1 pb-8">
+            <p class="mb-2 text-lg font-bold">Step 1</p>
+            <p class="text-gray-700">
+              All recipes are written using certain conventions, which define the characteristics of common ingredients. The rules vary from place to place.
+            </p>
+          </div>
+        </div>
+        <div class="flex">
+          <div class="flex flex-col items-center mr-4">
+            <div>
+              <div class="flex items-center justify-center w-10 h-10 border rounded-full">
+                <svg class="w-4 text-gray-600" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                  <line fill="none" stroke-miterlimit="10" x1="12" y1="2" x2="12" y2="22"></line>
+                  <polyline fill="none" stroke-miterlimit="10" points="19,15 12,22 5,15"></polyline>
+                </svg>
+              </div>
+            </div>
+            <div class="w-px h-full bg-gray-300"></div>
+          </div>
+          <div class="pt-1 pb-8">
+            <p class="mb-2 text-lg font-bold">Step 2</p>
+            <p class="text-gray-700">
+              The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Michael Knight a young loner.
+            </p>
+          </div>
+        </div>
+        <div class="flex">
+          <div class="flex flex-col items-center mr-4">
+            <div>
+              <div class="flex items-center justify-center w-10 h-10 border rounded-full">
+                <svg class="w-4 text-gray-600" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                  <line fill="none" stroke-miterlimit="10" x1="12" y1="2" x2="12" y2="22"></line>
+                  <polyline fill="none" stroke-miterlimit="10" points="19,15 12,22 5,15"></polyline>
+                </svg>
+              </div>
+            </div>
+            <div class="w-px h-full bg-gray-300"></div>
+          </div>
+          <div class="pt-1 pb-8">
+            <p class="mb-2 text-lg font-bold">Step 3</p>
+            <p class="text-gray-700">
+              Tell them I hate them. Is the Space Pope reptilian!? Tell her she looks thin. Hello, little man. I will destroy you!
+            </p>
+          </div>
+        </div>
+        <div class="flex">
+          <div class="flex flex-col items-center mr-4">
+            <div>
+              <div class="flex items-center justify-center w-10 h-10 border rounded-full">
+                <svg class="w-4 text-gray-600" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                  <line fill="none" stroke-miterlimit="10" x1="12" y1="2" x2="12" y2="22"></line>
+                  <polyline fill="none" stroke-miterlimit="10" points="19,15 12,22 5,15"></polyline>
+                </svg>
+              </div>
+            </div>
+            <div class="w-px h-full bg-gray-300"></div>
+          </div>
+          <div class="pt-1 pb-8">
+            <p class="mb-2 text-lg font-bold">Step 4</p>
+            <p class="text-gray-700">
+              If one examines precultural libertarianism, one is faced with a choice: either accept rationalism or conclude that context is a product.
+            </p>
+          </div>
+        </div>
+        <div class="flex">
+          <div class="flex flex-col items-center mr-4">
+            <div>
+              <div class="flex items-center justify-center w-10 h-10 border rounded-full">
+                <svg class="w-6 text-gray-600" stroke="currentColor" viewBox="0 0 24 24">
+                  <polyline fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="6,12 10,16 18,8"></polyline>
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div class="pt-1">
+            <p class="mb-2 text-lg font-bold">Success</p>
+            <p class="text-gray-700"></p>
+          </div>
+        </div>
+      </div>
+      <div class="relative">
+        <img
+          class="inset-0 object-cover object-bottom w-full rounded shadow-lg h-96 lg:absolute lg:h-full"
+          src="https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+          alt=""
+        />
+      </div>
+    </div>
+  </div>
+  <!-- widgets -->
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+      <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+        <span class="relative inline-block">
+          <span class="relative">The</span>
+        </span>
+        quick, brown fox jumps over a lazy dog
+      </h2>
+      <p class="text-base text-700 md:text-lg">
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
+      </p>
+    </div>
+    <div class="grid row-gap-8 sm:row-gap-0 sm:grid-cols-2 lg:grid-cols-3">
+      <div class="p-8 border-b sm:border-r">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">The quick fox</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b lg:border-r">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Leverage agile</h6>
+          <p class="mb-3 text-sm text-900">
+            Storage shed, troughs feed bale manure, is garden wheat oats at augers. Bulls at rose garden cucumbers mice sunflower wheat in pig.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+      <div class="p-8 border-b sm:border-r lg:border-r-0">
+        <div class="max-w-md text-center">
+          <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-indigo-50 sm:w-16 sm:h-16">
+            <svg class="w-8 h-8 text-deep-purple-accent-400 sm:w-12 sm:h-12" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="mb-3 text-sm text-900">
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium rem aperiam, eaque ipsa quae. Sit error voluptatem.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Recent post -->
+  
+  <!-- FAQ -->
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="max-w-xl sm:mx-auto lg:max-w-2xl">
+      <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+        <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+            <span class="relative">The quick, brown fox jumps over a lazy dog</span>
+        </h2>
+        <p class="text-base text-700 md:text-lg">
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae.
+        </p>
+      </div>
+    </div>
+    <div class="max-w-screen-xl sm:mx-auto">
+      <div class="grid grid-cols-1 gap-16 row-gap-8 lg:grid-cols-2">
+        <div class="space-y-8">
+          <div>
+            <p class="mb-4 text-xl font-medium">
+              The quick, brown fox jumps over a lazy dog?
+            </p>
+            <p class="text-700">
+              Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds.<br />
+              <br />
+              Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+            </p>
+          </div>
+          <div>
+            <p class="mb-4 text-xl font-medium">
+              The first mate and his Skipper too will do?
+            </p>
+            <p class="text-700">
+              Well, the way they make shows is, they make one show. That show's called a pilot.<br />
+              <br />
+              Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs.Some don't, become nothing. She
+              starred in one of the ones that became nothing.
+            </p>
+          </div>
+          <div>
+            <p class="mb-4 text-xl font-medium">Is the Space Pope reptilian!?</p>
+            <p class="text-700">
+              A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear.
+            </p>
+          </div>
+        </div>
+        <div class="space-y-8">
+          <div>
+            <p class="mb-4 text-xl font-medium">How much money you got on you?</p>
+            <p class="text-700">
+              The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest.<br />
+              <br />
+              Michael Knight a young loner on a crusade to champion the cause of the innocent. The helpless. The powerless in a world of criminals who operate above the law. Here he comes Here comes Speed Racer. He's a demon on wheels.
+            </p>
+          </div>
+          <div>
+            <p class="mb-4 text-xl font-medium">
+              Galaxies Orion's sword globular star cluster?
+            </p>
+            <p class="text-700">
+              A business big enough that it could be listed on the NASDAQ goes belly up. Disappears!<br />
+              <br />
+              It ceases to exist without me. No, you clearly don't know who you're talking to, so let me clue you in.
+            </p>
+          </div>
+          <div>
+            <p class="mb-4 text-xl font-medium">
+              When has justice ever been as simple as a rule book?
+            </p>
+            <p class="text-700">
+              This is not about revenge. This is about justice. A lot of things can change in twelve years, Admiral. Well, that's certainly good to know. About four years. I got tired of hearing how young I looked.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- FAQ -->
+  <!-- Features -->
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="text-center">
+        <h6 class="text-9xl">7K</h6>
+        <p class="mb-2 text-5xl">Shows</p>
+      </div>
+      <div class="text-center">
+        <h6 class="text-9xl">9M</h6>
+        <p class="mb-2 text-5xl">Y. Views</p>
+      </div>
+      <div class="text-center">
+        <h6 class="text-9xl">9K</h6>
+        <p class="mb-2 text-5xl">Winnings</p>
+      </div>
+      <div class="text-center">
+        <h6 class="text-9xl">30Y</h6>
+        <p class="mb-2 text-5xl">Experience</p>
+      </div>
+    </div>
+  </div>
+  <!-- time -->
+
+  <!-- /Features -->
+{{ end }}
