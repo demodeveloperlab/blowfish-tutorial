@@ -38,74 +38,10 @@ Philosophy: Keep It Simple Stupid principle. Delicate dance of flow and elegance
 <div class="ontainer text-center text-lg">
 FEATURES. What you get with AstroWind. One of the most professional and comprehensive templates currently on the market. Most starred & forked Astro theme in 2022.
 </div>
+</div>
 <!-- /abstract -->
 <!-- Features -->
-<div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
-  <section>
-<div class="mx-auto text-center mb-10 lg:mb-14">
-<p class="text-base text-primary-600 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Features</p>
-<h2 class="mb-4 text-4xl font-extrabold">
-  What you get with AstroWind
-</h2>
-<p class="text-xl">
-  One of the most professional and comprehensive templates currently on the market. Most starred & forked Astro theme in 2022.
-</p>
-</div>
-<div class="container max-w-6xl mx-auto">
-<div class="grid sm:grid-cols-2 gap-6">
-    <div class="flex">
-        <h3 class="mb-4 text-2xl font-bold">
-          Liste greta deed
-        </h3>
-        <p class="text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-        </p>
-    </div>
-    <div class="flex">
-        <h3 class="mb-4 text-2xl font-bold">
-          Liste greta deed
-        </h3>
-        <p class="text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-        </p>
-    </div>
-  <div class="flex">
-        <h3 class="mb-4 text-2xl font-bold">
-          Liste greta deed
-        </h3>
-        <p class="text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-        </p>
-    </div>
-  <div class="flex">
-        <h3 class="mb-4 text-2xl font-bold">
-          Liste greta deed
-        </h3>
-        <p class="text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-        </p>
-    </div>
-  <div class="flex">
-        <h3 class="mb-4 text-2xl font-bold">
-          Liste greta deed
-        </h3>
-        <p class="text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-        </p>
-    </div>
-  <div class="flex">
-        <h3 class="mb-4 text-2xl font-bold">
-          Liste greta deed
-        </h3>
-        <p class="text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-        </p>
-      </div>
-    </div>
-</div>
-</div>
-</section>
-</div>
+
 <!-- /Features -->
 <!-- Blueprint -->
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
@@ -118,7 +54,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 <p class="text-xl">
   Do or don't
 </p>
-</div>
+</div> 
 <div class="px-4 mx-auto">
   <div class="grid gap-6 row-gap-10 lg:grid-cols-2">
   <div class="relative">
