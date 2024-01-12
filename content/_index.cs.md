@@ -33,10 +33,9 @@ Lorem ipsum dolor sit amet
   </a>
   </div>
   {{< figure
-    src="/static/banner.webp"
-    alt="Abstract purple artwork"
+    src="banner.webp"
+    alt="Abstract purple artwork" webp q50
     >}}
-    {{ $image := resources.Get "images/banner.webp" }}
 </section>
 <!-- /Hero -->
 <!-- Quote -->
