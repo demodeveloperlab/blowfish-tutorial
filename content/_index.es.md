@@ -32,14 +32,17 @@ Lorem ipsum dolor sit amet
           <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
   </a>
   </div>
-  {{< figure
-    src="banner.webp"
-    alt="Abstract purple artwork"
-    >}}
 </section>
 <!-- /Hero -->
 {{< /rawhtml >}}
-![web](banner.webp)
+
+{{< figure
+    src="banner.webp"
+    alt="Abstract purple artwork"
+    >}}
+
+![hello](banner.webp)
+
 {{< rawhtml >}}
 <!-- Quote -->
 <div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mb-20 rounded-lg text-neutral-50">
