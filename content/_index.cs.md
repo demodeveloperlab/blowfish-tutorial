@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet
   </div>
   {{< figure
     src="banner.webp"
-    alt="Abstract purple artwork" webp q50
+    alt="Abstract purple artwork"
     >}}
 </section>
 <!-- /Hero -->
