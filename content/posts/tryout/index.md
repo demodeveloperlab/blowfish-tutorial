@@ -9,6 +9,12 @@ series: ["Documentation"]
 series_order: 1
 ---
 
+{{< figure
+    src="banner.webp"
+    alt="Abstract purple artwork"
+    >}}
+
+![hello](dog.webp)
 Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly.
 
 Detailed installation instructions can be found below. Instructions for are also available.

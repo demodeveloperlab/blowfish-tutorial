@@ -15,4 +15,6 @@ Detailed installation instructions can be found below. Instructions for are also
 
 ## Installation
 
+![hello](dog.webp)
+
 These instructions will get you up and running using Hugo and Blowfish from a completely blank state. Most of the dependencies mentioned in this guide can be installed using the package manager of choice for your platform.

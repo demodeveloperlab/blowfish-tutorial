@@ -38,6 +38,9 @@ Lorem ipsum dolor sit amet
     >}}
 </section>
 <!-- /Hero -->
+{{< /rawhtml >}}
+![web](banner.webp)
+{{< rawhtml >}}
 <!-- Quote -->
 <div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mb-20 rounded-lg text-neutral-50">
 <div class="container text-center text-lg">

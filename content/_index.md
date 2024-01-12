@@ -38,6 +38,7 @@ Lorem ipsum dolor sit amet
     >}}
 </section>
 <!-- /Hero -->
+{{ $image := resources.Get "static/banner.webp" }}`
 <!-- Quote -->
 <div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mb-20 rounded-lg text-neutral-50">
 <div class="container text-center text-lg">
@@ -349,7 +350,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="grid gap-6 row-gap-10 sm:grid-cols-2">
   <div class="relative">
        {{< figure
-    src="map1.webp"
+    src="map.webp"
     alt="Abstract purple artwork"
     >}}
     </div>
