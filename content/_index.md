@@ -424,6 +424,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 </section>
 </div>
 <!-- /Toolbox -->
+{{< /rawhtml >}}
 <!-- Recent -->
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
@@ -452,6 +453,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 </section>
 </div>
 <!-- /Recent -->
+{{< rawhtml >}}
 <!-- FAQ -->
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
   <section>
@@ -469,8 +471,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="flex">
     <div class="mr-2">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-primary-600 dark:text-primary-500">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
-      </svg>            
+        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" /></svg>            
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
