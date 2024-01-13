@@ -2,52 +2,63 @@
 title: ""
 description: ""
 ---
-
 {{< rawhtml >}}
-  <!-- /Hero -->
-<section>
-  <div class="bg-neutral-50 pt-24 mt-20 px-6 text-center dark:bg-neutral-900">
-    <h1 class="mt-8 mb-16 font-bold tracking-tight" style="font-size:4.5rem">
-      Title
-    </h1>
-    <h2 class="mb-8 text-4xl font-extrabold text-primary-400">template for Astro 4.0 + Tailwind CSS
-    </h2>
-    <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
-      AstroWind is a free, customizable and production-ready template for Astro 4.0 + Tailwind CSS. Suitable for Startups, Small Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages & Blogs.          </p>
-    <a href="#" class="inline-flex justify-center items-center py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
-    bg-primary-600 dark:bg-primary-500">
-      Learn more
-      {{< typeit 
-  tag=h3
-  speed=50
-  breakLines=false
-  loop=true
->}}
-Lorem ipsum dolor sit amet
-{{< /typeit >}}
-  </a>  
-    <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-center">
-      Ask a Question
-      <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
-  </a>
+<section class="cointainer mb-6">
+  <!-- Jumbotron -->
+  <div class="bg-neutral-50 px-6 py-12 text-center dark:bg-neutral-900 md:px-12 lg:text-left">
+    <div class="w-100 mx-auto sm:max-w-2xl">
+      <div class="grid items-center gap-12 lg:grid-cols-2">
+        <div class="mt-12 lg:mt-0">
+          <h1 class="mt-8 mb-16 font-bold tracking-tight" style="font-size:4.5rem">
+            Title
+          </h1>
+          <h2 class="mb-8 text-4xl font-extrabold text-primary-400">template for Astro 4.0 + Tailwind CSS
+          </h2>
+          <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
+           AstroWind is a free, customizable and production-ready template for Astro 4.0 + Tailwind CSS. Suitable for Startups, Small       Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages & Blogs.          </p>
+          <a href="#" class="inline-flex justify-center items-center py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
+          bg-primary-600 dark:bg-primary-500">
+           Read more
+        </a>  
+          <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-center">
+            Ask a Question
+        <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0       0 14 10">
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9       9"/></svg>
+        </a>
+        </div>
+        <div class="mt-8">
+           {{< figure
+           src="banner.webp"
+           alt="Abstract purple artwork"
+           >}}
+        </div>
+      </div>
+    </div>
   </div>
-  {{< figure
-    src="banner.webp"
-    alt="Abstract purple artwork"
-    >}}
+  <!-- Jumbotron -->
 </section>
-<!-- /Hero -->
-{{ $image := resources.Get "static/banner.webp" }}`
-<!-- Quote -->
-<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mb-20 rounded-lg text-neutral-50">
+  <!-- Quote -->
+  <section>
+<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mt-30 mb-20 rounded-lg text-neutral-50">
 <div class="container text-center text-lg">
 Philosophy: Keep It Simple Stupid principle. Delicate dance of flow and elegance!
 </div>
 </div>
+</section>
 <!--  /Quote -->
 <!-- Abstract -->
 <div class="py-6">
+<div class="mx-auto text-center mb-10 lg:mb-14">
+<p class="text-base text-primary-600 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">
+What's teh purpose of this page?
+</p>
+<h2 class="mb-4 text-4xl font-extrabold">
+  Journal, exploration, organization
+</h2>
+<p class="text-xl">
+  Do or don't
+</p>
+</div>
 <div class="ontainer text-center text-lg">
 FEATURES. What you get with AstroWind. One of the most professional and comprehensive templates currently on the market. Most starred & forked Astro theme in 2022.
 </div>
@@ -72,7 +83,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
-        Awards good deed
+        <a href="" class="text-primary-500" title="Go to W3Schools HTML section" hover:bg-primary-600>Awards good deed</a>
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
         A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
@@ -107,10 +118,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
   <div class="flex">
     <div class="mr-4">
-      <span class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-primary-600 dark:bg-primary-500 text-neutral-50 shadow-xl">
-        <svg class="w-6 h-6 text-white dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.75a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5ZM12 12.75a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5ZM12 18.75a.75.75 0 1 1 0-1.5.75.75 0 0 1 0 1.5Z" /></svg>  
-      </span>
+      <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-115.86 -115.86 735.48 735.48" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="4.030048"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-115.86" y="-115.86" width="735.48" height="735.48" rx="367.74" fill="#7ed0ec" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#EF705D;" d="M267.715,357.098c-13.885,0-28.637-5.207-39.919-16.488l-27.769-28.637 c-3.471-3.471-3.471-8.678,0-12.149c3.471-3.471,8.678-3.471,12.149,0l28.637,28.637c16.488,16.488,43.39,13.017,59.01,0 c7.81-7.81,11.281-18.224,11.281-28.637c0-11.281-4.339-21.695-12.149-29.505l-20.827-21.695c-3.471-3.471-3.471-8.678,0-12.149 s8.678-3.471,12.149,0l20.827,20.827c11.281,11.281,17.356,26.034,17.356,41.654s-6.075,30.373-17.356,41.654 C299.824,350.156,284.203,357.098,267.715,357.098"></path> <path style="fill:#EF705D;" d="M136.678,469.044c-2.603,0-4.339-0.868-6.075-2.603L16.922,353.627 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l35.58,35.58c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-35.58-35.58c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l113.681,113.681 c3.471,3.471,3.471,8.678,0,12.149C141.017,468.176,138.414,469.044,136.678,469.044"></path> <path style="fill:#EF705D;" d="M442.142,173.993c-17.356,0-34.712-8.678-51.2-25.166c-3.471-3.471-3.471-8.678,0-12.149 c3.471-3.471,8.678-3.471,12.149,0c27.769,27.77,53.803,26.034,85.912-4.339c3.471-3.471,8.678-3.471,12.149,0 c3.471,3.471,3.471,8.678,0,12.149C481.193,164.447,461.234,173.993,442.142,173.993"></path> </g> <path style="fill:#E6E6E6;" d="M411.77,57.708c-19.092-19.092-51.2-19.092-71.159,0L0.434,469.044L411.77,128.868 C430.861,109.776,430.861,77.668,411.77,57.708"></path> <path style="fill:#CDCDCD;" d="M347.553,130.603c-2.603,0-4.339-0.868-6.075-2.603c-3.471-3.471-3.471-8.678,0-12.149l28.637-28.637 c3.471-3.471,8.678-3.471,12.149,0s3.471,8.678,0,12.149L353.627,128C351.892,129.736,350.156,130.603,347.553,130.603"></path> <path style="fill:#EF705D;" d="M262.508,158.373c-2.603,0-4.339-0.868-6.075-2.603l-21.695-20.827 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l49.464,49.464c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-49.464-49.464c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l20.827,20.827 c3.471,3.471,3.471,8.678,0,12.149C266.847,158.373,265.112,158.373,262.508,158.373"></path> </g></svg>
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -123,10 +131,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
   <div class="flex">
     <div class="mr-4">
-      <span class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-primary-600 dark:bg-primary-500 text-neutral-50 shadow-xl">
-        <svg class="w-6 h-6 text-white dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M3.375 19.5h17.25m-17.25 0a1.125 1.125 0 0 1-1.125-1.125M3.375 19.5h1.5C5.496 19.5 6 18.996 6 18.375m-3.75 0V5.625m0 12.75v-1.5c0-.621.504-1.125 1.125-1.125m18.375 2.625V5.625m0 12.75c0 .621-.504 1.125-1.125 1.125m1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125m0 3.75h-1.5A1.125 1.125 0 0 1 18 18.375M20.625 4.5H3.375m17.25 0c.621 0 1.125.504 1.125 1.125M20.625 4.5h-1.5C18.504 4.5 18 5.004 18 5.625m3.75 0v1.5c0 .621-.504 1.125-1.125 1.125M3.375 4.5c-.621 0-1.125.504-1.125 1.125M3.375 4.5h1.5C5.496 4.5 6 5.004 6 5.625m-3.75 0v1.5c0 .621.504 1.125 1.125 1.125m0 0h1.5m-1.5 0c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125m1.5-3.75C5.496 8.25 6 7.746 6 7.125v-1.5M4.875 8.25C5.496 8.25 6 8.754 6 9.375v1.5m0-5.25v5.25m0-5.25C6 5.004 6.504 4.5 7.125 4.5h9.75c.621 0 1.125.504 1.125 1.125m1.125 2.625h1.5m-1.5 0A1.125 1.125 0 0 1 18 7.125v-1.5m1.125 2.625c-.621 0-1.125.504-1.125 1.125v1.5m2.625-2.625c.621 0 1.125.504 1.125 1.125v1.5c0 .621-.504 1.125-1.125 1.125M18 5.625v5.25M7.125 12h9.75m-9.75 0A1.125 1.125 0 0 1 6 10.875M7.125 12C6.504 12 6 12.504 6 13.125m0-2.25C6 11.496 5.496 12 4.875 12M18 10.875c0 .621-.504 1.125-1.125 1.125M18 10.875c0 .621.504 1.125 1.125 1.125m-2.25 0c.621 0 1.125.504 1.125 1.125m-12 5.25v-5.25m0 5.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125m-12 0v-1.5c0-.621-.504-1.125-1.125-1.125M18 18.375v-5.25m0 5.25v-1.5c0-.621.504-1.125 1.125-1.125M18 13.125v1.5c0 .621.504 1.125 1.125 1.125M18 13.125c0-.621.504-1.125 1.125-1.125M6 13.125v1.5c0 .621-.504 1.125-1.125 1.125M6 13.125C6 12.504 5.496 12 4.875 12m-1.5 0h1.5m-1.5 0c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125M19.125 12h1.5m0 0c.621 0 1.125.504 1.125 1.125v1.5c0 .621-.504 1.125-1.125 1.125m-17.25 0h1.5m14.25 0h1.5" /></svg> 
-      </span>
+      <svg width="64px" height="64px" viewBox="-4.8 -4.8 57.60 57.60" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-4.8" y="-4.8" width="57.60" height="57.60" rx="28.8" fill="#b1ddc8" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <rect width="48" height="48" fill="white" fill-opacity="0.01"></rect> <path d="M18 36L24 30L30 36" stroke="#49b800" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M23.9999 31V44" stroke="#49b800" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M18 12L24 18L30 12" stroke="#49b800" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M23.9999 17V4.00001" stroke="#49b800" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M6 24H42" stroke="#49b800" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -139,10 +144,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
   <div class="flex">
     <div class="mr-4">
-      <span class="flex items-center justify-center w-12 h-12 mb-4 rounded-full bg-primary-600 dark:bg-primary-500 text-neutral-50 shadow-xl">
-        <svg class="w-6 h-6 text-white dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M18 18.72a9.094 9.094 0 0 0 3.741-.479 3 3 0 0 0-4.682-2.72m.94 3.198.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0 1 12 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 0 1 6 18.719m12 0a5.971 5.971 0 0 0-.941-3.197m0 0A5.995 5.995 0 0 0 12 12.75a5.995 5.995 0 0 0-5.058 2.772m0 0a3 3 0 0 0-4.681 2.72 8.986 8.986 0 0 0 3.74.477m.94-3.197a5.971 5.971 0 0 0-.94 3.197M15 6.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm6 3a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Zm-13.5 0a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Z" /></svg> 
-      </span>
+     <svg width="64px" height="64px" viewBox="-30.72 -30.72 189.44 189.44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000" stroke="#000000" stroke-width="0.256"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-30.72" y="-30.72" width="189.44" height="189.44" rx="94.72" fill="#9fdbd7" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M67.47 48.2l-1.11 18.48s3.76 10.64 2.71 25.45c-1.01 14.27-4.8 21.49-5.84 23.99s-3.96 5.63 0 6.88s10.64.63 13.56-.42c2.92-1.04 4.37-6.84 4.8-9.18c1.05-5.79 1.63-16.74-.5-27.54C79.46 77.56 76 63.33 76 63.33L67.47 48.2z" fill="#99c23b"></path><path d="M66.78 45.4s4.28-13.43 14.12-23.62c9.43-9.76 19.06-12.96 26.78-13.92c8.51-1.06 11.98-.95 13.44.1s.94 2.7.97 4.16c.19 10.44.58 23.97-11.7 36.35c-13.11 13.2-22.45 15.57-32.68 16.62c-10.22 1.04-9.06-3.62-9.06-3.62L66.78 45.4z" fill="#99c23b"></path><path d="M2.98 37.05c-.37 1.83 9.29 23.31 27.95 30.07c20.09 7.29 39.03 0 39.03 0l1.56-19.34l-4.75-2.38S56.7 34.29 45.51 30.19c-11.6-4.25-24.71-4.58-33.64.19c-5.6 3-8.69 5.7-8.89 6.67z" fill="#99c23b"></path><path d="M86.68 30.68C77.38 41.7 72.69 52.81 72.2 55.71s1.12 2.78 2.03 1.55c1.64-2.22 7.35-12.37 15.85-22.04c7.36-8.36 18.56-17.4 20.2-19.33c1.02-1.2-.1-2.71-1.64-2.03c-1.54.67-12.45 5.55-21.96 16.82z" fill="#e6dc9f"></path><path d="M41.43 41c-13.6-4.68-23.55-4.05-25.58-3.37c-2.03.68-1.93 2.9.48 3.19s12.24 1.27 24.56 5.7c13.15 4.74 22.52 11.89 24.17 12.86c1.64.97 2.71-.97 1.26-2.71c-1.11-1.31-9.89-10.51-24.89-15.67z" fill="#e6dc9f"></path></g></svg>
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -159,7 +161,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <a href="">
     <button
       class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-full">
-      Show all
+      Courses
     </button>
   </a>
 </div>
@@ -279,16 +281,16 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-600 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Events</p>
 <h2 class="mb-4 text-4xl font-extrabold">
-  Get somewthing
+  IMPROVE YOUR SELF RELATIONSHIP
 </h2>
 <p class="text-xl">
-  Yummi yam
+  Practice
 </p>
 </div>
 <div class="max-w-6xl mx-auto grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
     <div class="flex justify-center items-center">
-    <svg width="128px" height="128px" viewBox="0 0 24 24" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g transform="translate(0 -1028.4)"> <path fill="#e74c3c" d="m0 1044.4 12 6 12-6-12-6z"></path> <path fill="#c0392b" d="m12 1038.4-9 4.5 9 4.5 9-4.5-9-4.5z"></path> <path fill="#3498db" d="m4.2e-7 1040.4 12 6 12-6-12-6z"></path> <path fill="#2980b9" d="m12 1034.4-9 4.5 9 4.5 9-4.5-9-4.5z"></path> <path fill="#f1c40f" d="m4e-7 1036.4 12 6 12-6-12-6z"></path> </g> </g></svg>    
+    <svg width="64px" height="64px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path fill="#41484a" d="M71.08 63.95l4.69-9.39l10.51-13.51L99.8 31.1l13.51-6.2l7.28-.18l1.83 2.81l-3.1 14.22l-4.93 20.98l-3.09 5.06l-7.32 4.09L96.51 73l7.61 3.52l5.63 4.37l3.23 4.5v6.06l-2.81 7.88l-8.45 6.76l-5.21 1.97l-8.16-1.97l-1.83-2.11l-3.9-6.2l-2.72-9.29l-5.49-2.82l-5.3 2.91l1.92 12.44l-.42 3.94l-.7 2.82l-1.97 3.94l-5.07 2.95l-7.18.15l-9.29-2.54l-5.49-4.22l-3.38-5.63l.84-7.46l9.57-12.25l-8.02 2.95l-10.28.29l-8.44-9.16L8.24 55.83l-3.23-9.29l2.67-2.82h7.74l16.62 2.68l18.16 7.18l13.09 7.46z"></path><path d="M67.02 46.26s1.23-11.63 2.53-16.19c1.83-6.41 7.04-11.47 11.4-11.97c4.36-.49 3.8 2.89 1.13 4.29c-2.57 1.35-5.35.56-5.35.56s-3.59 2.62-4.79 8.02c-1.41 6.34-2.53 16.19-2.53 16.19l-2.39-.9z" fill="#676f72"></path><path d="M63.15 47.03s-4.77-9.69-9.92-15.84c-5.14-6.12-11.68-6.34-12.6-6.41c-.92-.07-4.79.56-4.79 2.39c0 2.46 3.4 2.9 5.35 2.53c2.25-.42 3.31-1.76 3.31-1.76s4.18 1.66 6.97 5c3.24 3.87 9.22 15.56 9.22 15.56l.42 1.55l2.04-3.02z" fill="#676f72"></path><path d="M54.84 93.7c-1.75-.87-7.04 4.08-7.04 6.48c0 1.57 1.13 4.22 3.52 3.52c2.4-.71 5.78-8.88 3.52-10z" fill="#ff8b03"></path><path d="M45.41 93.7c2.25 1.97 5.97-1.95 7.6-4.5c1.97-3.1 2.96-10.84 2.39-10.56c-.56.28-7.6 5.35-7.6 5.35s-5.34 7.13-2.39 9.71z" fill="#ff8b03"></path><path d="M56.11 103.27c0 2.46 2.67 4.22 5.35 3.8c1.4-.22 3.91-1.52 3.66-3.8c-.28-2.53-1.41-6.34-4.08-6.76c-2.68-.42-4.93 2.68-4.93 6.76z" fill="#ff8b03"></path><path d="M71.01 83.91s-3.69 7.75-4.49 9.64c-1.13 2.67-1.17 9.34 1.83 10.42c2.14.77 2.67-2.96 2.67-2.96s.37-7.64.37-10.17c.01-2.53-.38-6.93-.38-6.93z" fill="#ff8b03"></path><path d="M73.85 75.12s7.04 8.17 9.15 9.71c2.11 1.55 5.77 5.91 10.56 2.67c4.79-3.24-8.17-14.08-9.29-14.92C83.14 71.74 73 71.6 73 71.6l.85 3.52z" fill="#ff8b03"></path><path d="M76.38 83s4.92 4.49 5.91 5.49c2.11 2.11 4.5 4.07 5.49 7.04c.56 1.69 1.41 4.22-.42 5.21c-1.51.81-3.4-1.39-4.08-2.11c-.69-.72-3.33-6.53-4.87-9.84c-.64-1.36-2.03-5.79-2.03-5.79z" fill="#ff8b03"></path><path d="M90.74 91.45c-1.13 1.52.32 6.76 1.83 7.74c2.82 1.83 6.19-1.41 6.19-2.96c.01-1.55-5.63-8.02-8.02-4.78z" fill="#ff8b03"></path><path d="M88.91 72.02s6.19 9.71 9.57 11.68s6.04 1.75 7.04 0c2.25-3.94-7.46-9.29-7.46-9.29l-9.15-2.39z" fill="#ff8b03"></path><path d="M96.65 87.22c-.84 1.83 2.67 7.18 5.07 7.18s3.26-3.39 3.1-4.5c-.28-1.97-6.73-5.8-8.17-2.68z" fill="#ff8b03"></path><path d="M61.6 75.4s-6.49 10.66-4.5 15.91c1.55 4.08 5.77 3.38 9.43-3.52s4.36-11.26 4.36-11.26l-1.13-3.94l-8.16 2.81z" fill="#ff8b03"></path><path d="M63.99 60.33s-5.77-5.21-17.46-10.14s-22.1-8.02-31.39-7.88s-10.7 2.25-11.12 3.94c-.42 1.69 1.24 7.02 3.1 10.28c2.25 3.94 10.7 17.6 13.66 21.82c2.55 3.65 4.31 7.7 9.85 9.01c6.15 1.45 13.66-1.69 13.66-1.69s-7.18 6.48-7.6 13.37c-.42 6.9 3.24 11.83 10.84 14.5s18.7 4.72 22.24-3.66c1.03-2.44.84-4.93.84-4.93s-2.56 7.31-6.48 8.02c-3.1.56-2.67-1.27-5.49-1.55c-2.82-.28-2.39 1.83-5.35 1.83c-2.27 0-1.55-1.83-3.94-3.1s-3.75.78-5.21-.42c-2.39-1.97-.14-2.96-1.13-4.5c-.99-1.55-3.26-2.02-3.8-3.94c-.99-3.52.99-6.19 3.1-9.29c2.11-3.1 5.91-7.6 8.87-9.71c2.96-2.11 17.53-9.06 17.53-9.06s.77-2.62-.35-2.48c-1.13.14-14.36 7.18-16.76 8.73c-2.39 1.55-12.74 6.91-20.27 5.21c-4.36-.99-12.23-14.87-15.41-19.19c-3.18-4.32-8.68-14.92-8.24-17.98c.41-2.82 5.21-3.38 12.53-2.53c7.32.84 13.8 3.1 22.95 6.9S62.73 62.73 64 62.73c1.26 0-.01-2.4-.01-2.4z" fill="#676f72"></path><path d="M72.58 62.02s-1.13-2.72.84-6.1s8.31-12.9 14.78-18.68c6.48-5.77 28.3-17.74 33.22-14.22c4.93 3.52-.42 17.36-1.55 22.1c-.98 4.13-2.25 17.41-7.04 22.95c-3.72 4.31-11.68 5.77-11.68 5.77s12.94 6.21 13.51 14.36c.7 10-10.98 21.42-19.71 21.12c-6.71-.23-8.45-5.35-8.45-5.35s6.19 3.52 8.73 2.82c2.53-.7.7-3.1 3.1-4.5s4.36 2.25 6.19.56s.42-3.24 1.69-4.93c1.27-1.69 3.1 0 4.22-1.55c1.13-1.55 0-3.66.56-5.07c.56-1.41 1.69-1.69 1.55-3.8c-.14-2.11-4.08-7.04-9.01-9.43s-10.28-3.52-14.64-4.36c-4.36-.84-15.63-1.6-15.63-1.6s-.99-2.3-.42-2.21c1.13.19 3.94.42 8.17.56c8.54.28 22.24 2.25 28.3-2.53s7.04-18.3 7.6-21.82s5.91-19.01 2.82-20.55c-3.1-1.55-18.34 4.61-26.7 11.07s-14.4 15.4-16.23 19.06c-1.83 3.66-4.22 6.33-4.22 6.33z" fill="#676f72"></path><path d="M72.41 58.68c.77-1.06 1.95-1.89 1.44-7.07c-.56-5.7-5.46-7.14-9.33-6.3c-3.14.68-7.57 3.63-5.17 10.73c2.12 6.31 9.29 4.36 9.29 4.36s2.99-.67 3.77-1.72z" fill="#41484a"></path><ellipse transform="rotate(-33.726 95.108 38.234)" cx="95.11" cy="38.23" rx="2.75" ry="2.18" fill="#fcfdfa"></ellipse><path d="M117.21 41.47c-.63-1.03-2.01-1.26-3.17-.28c-.79.66-1.44 2.24-.77 3.24c.67 1 2.14 1.12 3.1.35c1.18-.95 1.41-2.37.84-3.31z" fill="#fcfdfa"></path><path d="M104.33 35.13c-.67-1-2.47-1.12-3.73-.28s-2.21 2.41-1.2 3.94c.7 1.06 2.31 1.04 3.87.14c1.48-.84 1.73-2.79 1.06-3.8z" fill="#fcfdfa"></path><path d="M121.22 26.05c0 1.09-.7 2.18-2.18 1.97c-1.35-.19-1.97-.7-1.97-2.18c0-1.09 1.04-1.76 2.15-1.76s2 .88 2 1.97z" fill="#fcfdfa"></path><path d="M119.53 34.64c0 1.09-1.08 2.04-2.18 1.97c-1.06-.07-1.97-.7-1.97-2.18c0-1.09 1.07-1.9 2.18-1.9s1.97 1.02 1.97 2.11z" fill="#fcfdfa"></path><circle cx="113.79" cy="53.68" r="2.15" fill="#fcfdfa"></circle><ellipse cx="20.74" cy="72.3" rx="1.87" ry="1.9" fill="#fcfdfa"></ellipse><path d="M10 45.97c.83 1.11.18 2.35-.86 3.2c-1.03.85-2.45.83-3.16-.04s-.45-2.27.59-3.12c1.04-.85 2.62-1.14 3.43-.04z" fill="#fcfdfa"></path><path d="M16.74 60.88c1.42.28 1.81 1.53 1.62 2.74c-.19 1.22-1.28 2.06-2.44 1.88c-1.16-.18-1.95-1.31-1.77-2.53s1.19-2.36 2.59-2.09z" fill="#fcfdfa"></path><path d="M12.46 53.78c1.03 1.02.66 2.27-.17 3.18c-.83.91-2.2 1.01-3.07.21c-.87-.79-.9-2.17-.07-3.08c.83-.91 2.3-1.32 3.31-.31z" fill="#fcfdfa"></path><path d="M29.77 49.61c1.04.82.74 2.14-.02 3.2s-2.08 1.42-2.96.8s-.97-1.99-.21-3.06c.76-1.06 2.16-1.75 3.19-.94z" fill="#fcfdfa"></path><path d="M26.55 48.97c-.04 1.36-1.31 1.92-2.64 1.93c-1.33.02-2.42-.87-2.43-1.97c-.01-1.11 1.05-2.02 2.38-2.03c1.33-.02 2.73.72 2.69 2.07z" fill="#fcfdfa"></path><path d="M43.86 99.19c0 1.23-.78 2.22-2.01 2.22s-2.22-1-2.22-2.24c0-1.23.99-2.24 2.22-2.24s2.01 1.02 2.01 2.26z" fill="#fcfdfa"></path><path d="M47.59 107.07c-.8.95-2.44.81-3.28.11c-.83-.7-.86-2.04-.06-2.99s2.12-1.16 2.96-.46c.83.7 1.18 2.39.38 3.34z" fill="#fcfdfa"></path><ellipse transform="rotate(-33.973 107.471 93.774)" cx="107.46" cy="93.77" rx="2.08" ry="1.76" fill="#fcfdfa"></ellipse><ellipse transform="rotate(-33.973 109.79 87.148)" cx="109.78" cy="87.14" rx="2.08" ry="2" fill="#fcfdfa"></ellipse><path d="M95.2 43.49c-3.49-1.45-7.13.47-11.26 6.38s-6.38 10.04-4.6 11.54s10-6.16 11.73-7.51c2.53-1.97 7.98-8.82 4.13-10.41z" fill="#ff8b03"></path><path d="M88.16 60c2.32-1.32 9.1-.75 12.76-.94c2.44-.13 6.01.25 6.1 1.5c.19 2.53-.75 4.13-3.94 5.26s-10.7 1.31-15.49 1.41c-2.82.06-5.41.34-5.73-.94c-.18-.75 2.17-3.94 6.3-6.29z" fill="#ff8b03"></path><path d="M99.24 48.93c2.16.38 9.1.19 11.07-1.31c1.2-.92 1.88-4.79 0-5.63c-1.88-.84-7.23-.66-9.29.94c-1.27.97-3.62 5.68-1.78 6z" fill="#ff8b03"></path><path d="M109.47 31.29c-.36 2.21 3.19 2.16 4.79 1.69c1.6-.47 3.75-3 2.72-4.32c-1.04-1.32-7.05-.28-7.51 2.63z" fill="#ff8b03"></path><path d="M106.93 36.73c0 1.6 1.31 2.16 3.19 2.16s3.1-1.19 3.1-2.44c0-1.69-1.6-2.35-3.66-1.97c-1.57.28-2.63.94-2.63 2.25z" fill="#ff8b03"></path><path d="M94.36 56.16c0 1.2 3.38.84 8.26.84s6.01-.75 6.57-2.63c.56-1.88.38-3.1-2.53-3.19c-2.91-.09-8.63.19-10.32 1.41c-.77.55-1.98 2.63-1.98 3.57z" fill="#ff8b03"></path><path d="M29.13 75.58c-.2 2.15 1.69 4.88 7.32 4.41s12.3-3.79 14.08-4.6c3.28-1.5 6.29-2.72 6.29-4.22c0-1.69-3.75-2.25-8.82-2.72c-5.07-.47-8.82.47-13.05 2.82c-3.53 1.96-5.73 3.28-5.82 4.31z" fill="#ff8b03"></path><path d="M23.59 68.17c-.17 1.3 1.97 4.41 3.38 4.5c1.41.09 8.82-3.85 9.01-5.16c.19-1.31-1.69-3.38-3.19-3.75c-1.5-.38-9.01 3-9.2 4.41z" fill="#ff8b03"></path><path d="M32.79 53.81c-2.26 2.26.38 6.48 5.26 8.92c4.88 2.44 12.67 3.1 15.77 3.57c3.1.47 5.35.56 5.82-.38c1.01-2.01-6.48-5.73-13.42-9.01c-4.33-2.05-11.65-4.88-13.43-3.1z" fill="#ff8b03"></path><path d="M10.73 49.21c.28 2.82 7.79 2.1 7.88-.66c.1-2.72-8.16-2.15-7.88.66z" fill="#ff8b03"></path><path d="M15.61 55.78c1.17 1.95 6.01.19 4.41-2.35c-1.52-2.41-6.1-.46-4.41 2.35z" fill="#ff8b03"></path><path d="M20.87 63.57c.77 1.31 3.33 1.22 5.73.09c1.6-.75 3.7-2.29 3.28-4.13c-.47-2.06-4.32-2.35-6.85-1.13c-1.79.87-3.76 2.45-2.16 5.17z" fill="#ff8b03"></path><path d="M74.06 71.24L67.79 73s1.94 8.4 2.67 11.54c.77 3.31 5.7 27.17 9.57 26.54c3.99-.65-2.67-25.34-3.31-28.02c-.6-2.57-2.66-11.82-2.66-11.82z" fill="#676f72"></path><path d="M73.43 82.51c1.85-.4 2.87-1.51 2.87-1.51l1.23 5.3s-.93.86-2.76 1.28c-2.02.47-3.59.11-3.59.11l-1.21-5.26c-.01-.01 1.48.5 3.46.08z" fill="#41484a"></path><path d="M67.79 73l6.26-1.76l.93 4.22s-1.65.83-2.99 1.11c-1.34.28-3.31.3-3.31.3L67.79 73z" fill="#41484a"></path><path d="M72.3 92.5s1.78.21 3.4-.14c1.62-.35 2.97-1.39 2.97-1.39l1.04 4.66s-1.54 1.09-2.95 1.35c-1.45.27-3.28.11-3.26.11l-1.2-4.59z" fill="#41484a"></path><path d="M67.23 56.67c-2.19.61-3.83 1.97-3.94 4.36c-.14 3.1.56 4.93 1.41 7.88c.54 1.89 1.17 6.22 6.9 4.79c3.94-.99 3.52-4.65 3.38-7.32c-.14-2.69-.7-6.19-1.69-7.74c-.92-1.44-3.52-2.67-6.06-1.97z" fill="#303031"></path><path d="M72.54 47.42c.87 1.29.9 3.07-.24 3.83c-1.13.76-3 .22-3.87-1.07c-.87-1.29-.65-2.95.48-3.72c1.14-.76 2.76-.33 3.63.96z" fill="#303031"></path><path d="M63.3 51.58c-.42 1.5-1.86 2.58-3.17 2.21c-1.32-.37-2.01-2.03-1.6-3.53c.42-1.5 1.82-2.42 3.14-2.05s2.04 1.87 1.63 3.37z" fill="#303031"></path></g></svg>   
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Romy</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
@@ -297,7 +299,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
     <div class="flex justify-center items-center">
-    <svg width="128px" height="128px" viewBox="0 0 24 24" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g transform="translate(0 -1028.4)"> <path fill="#e74c3c" d="m0 1044.4 12 6 12-6-12-6z"></path> <path fill="#c0392b" d="m12 1038.4-9 4.5 9 4.5 9-4.5-9-4.5z"></path> <path fill="#3498db" d="m4.2e-7 1040.4 12 6 12-6-12-6z"></path> <path fill="#2980b9" d="m12 1034.4-9 4.5 9 4.5 9-4.5-9-4.5z"></path> <path fill="#f1c40f" d="m4e-7 1036.4 12 6 12-6-12-6z"></path> </g> </g></svg>    
+   <svg width="64px" height="64px" viewBox="0 0 1024 1024" class="icon" version="1.1" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M853.333333 469.333333h-170.666666l-85.333334 85.333334V256c0-46.933333 38.4-85.333333 85.333334-85.333333h170.666666c46.933333 0 85.333333 38.4 85.333334 85.333333v128c0 46.933333-38.4 85.333333-85.333334 85.333333z" fill="#2196F3"></path><path d="M362.666667 405.333333m-170.666667 0a170.666667 170.666667 0 1 0 341.333333 0 170.666667 170.666667 0 1 0-341.333333 0Z" fill="#FFA726"></path><path d="M640 782.933333S563.2 640 362.666667 640 85.333333 782.933333 85.333333 782.933333V853.333333h554.666667v-70.4z" fill="#607D8B"></path></g></svg> 
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Romy</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
@@ -306,7 +308,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
     <div class="flex justify-center items-center">
-    <svg width="128px" height="128px" viewBox="0 0 24 24" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g transform="translate(0 -1028.4)"> <path fill="#e74c3c" d="m0 1044.4 12 6 12-6-12-6z"></path> <path fill="#c0392b" d="m12 1038.4-9 4.5 9 4.5 9-4.5-9-4.5z"></path> <path fill="#3498db" d="m4.2e-7 1040.4 12 6 12-6-12-6z"></path> <path fill="#2980b9" d="m12 1034.4-9 4.5 9 4.5 9-4.5-9-4.5z"></path> <path fill="#f1c40f" d="m4e-7 1036.4 12 6 12-6-12-6z"></path> </g> </g></svg>    
+    <svg width="64px" height="64px" viewBox="0 0 64 64" id="svg5" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <defs id="defs2"></defs> <g id="layer1" transform="translate(0,-576)"> <path d="m 9.999992,585 h 49 v 6 h -49 z" id="path61150" style="fill:#3e4f59;fill-opacity:1;fill-rule:evenodd;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 9.999992,591 h 49 v 40 h -49 z" id="path61152" style="fill:#acbec2;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 9.999992,591 v 40 h 29.76953 a 28.484051,41.392605 35.599482 0 0 18.625,-40 z" id="path61154" style="fill:#e8edee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 11.999992,584 c -1.64501,0 -3,1.355 -3,3 v 40 c 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 v -40 c 0,-0.56413 0.43587,-1 1,-1 h 45 c 0.56413,0 1,0.43587 1,1 v 3 h -42 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 h 42 v 37 c 0,0.56413 -0.43587,1 -1,1 h -49 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 h 49 c 1.64501,0 3,-1.35499 3,-3 0,-14 0,-28 0,-42 0,-1.645 -1.35499,-3 -3,-3 z" id="path61156" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 54.999992,587 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61158" style="color:#000000;fill:#ed7161;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 50.999992,587 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61160" style="color:#000000;fill:#ecba16;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 46.999992,587 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61162" style="color:#000000;fill:#42b05c;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 4.999992,630 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" id="path61164" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 12.999992,590 c -0.55228,0 -1,0.44772 -1,1 0,0.55229 0.44772,1 1,1 0.55229,0 1,-0.44771 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path61166" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 19.714314,625 c 0,-2.76143 1.854822,-5 4.142852,-5 C 26.145197,620 28,622.23857 28,625 Z" id="path2154-6-8" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.857422,620 c -2.288028,0 -4.142578,2.23857 -4.142578,5 h 3.755859 a 4.6546698,8.5063829 0 0 0 0.896485,-4.96094 C 24.200019,620.01429 24.030139,620 23.857422,620 Z" id="ellipse41890" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="M 26.342869,617.50001 A 2.4857024,2.4999882 0 0 1 23.857166,620 a 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485703,2.49999 z" id="path2152-3-1" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.490234,615.02734 a 2.4857024,2.4999882 0 0 0 -2.11914,2.47266 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.511719,-0.0547 4.6546698,8.5063829 0 0 0 -0.878907,-4.91797 z" id="ellipse41896" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 41.714314,625 c 0,-2.76143 1.854821,-5 4.142851,-5 C 48.145196,620 50,622.23857 50,625 Z" id="path2154-6-7" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.857422,620 c -2.288028,0 -4.142578,2.23857 -4.142578,5 h 4.367187 a 4.6546698,8.5063829 0 0 0 0.535157,-3.91992 4.6546698,8.5063829 0 0 0 -0.03516,-1.00196 C 46.346416,620.02789 46.104981,620 45.857422,620 Z" id="ellipse41892" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="M 48.342868,617.50001 A 2.4857024,2.4999882 0 0 1 45.857165,620 a 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485703,2.49999 z" id="path2152-3-2" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.257812,615.08008 a 2.4857024,2.4999882 0 0 0 -1.886718,2.41992 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.71289,-0.10547 4.6546698,8.5063829 0 0 0 -1.3125,-4.81445 z" id="ellipse41904" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 41.714314,607 c 0,-2.76143 1.854821,-5 4.142851,-5 C 48.145196,602 50,604.23857 50,607 Z" id="path2154-6-0" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.857422,602 c -2.288028,0 -4.142578,2.23857 -4.142578,5 h 3.943359 a 4.6546698,8.5063829 0 0 0 0.710938,-4.49414 4.6546698,8.5063829 0 0 0 -0.0078,-0.46875 C 46.196098,602.01292 46.028061,602 45.857422,602 Z" id="path41872" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="M 48.342868,599.50001 A 2.4857024,2.4999882 0 0 1 45.857165,602 a 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485703,2.49999 z" id="path2152-3-6" style="fill:#ffa221;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.292969,597.07227 a 2.4857024,2.4999882 0 0 0 -1.921875,2.42773 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.5,-0.0527 4.6546698,8.5063829 0 0 0 -1.064453,-4.875 z" id="path41884" style="fill:#ffc343;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 19.714314,606.99998 c 0,-2.76142 1.854821,-5 4.142851,-5 2.288031,0 4.142835,2.23858 4.142835,5 z" id="path2154-6" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.857422,602 c -2.288028,0 -4.142578,2.23858 -4.142578,5 h 3.755859 a 4.6546698,8.5063829 0 0 0 0.896485,-4.96094 C 24.200019,602.01429 24.030139,602 23.857422,602 Z" id="path41876" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 26.342868,599.49999 a 2.4857024,2.4999882 0 0 1 -2.485703,2.49999 2.4857024,2.4999882 0 0 1 -2.485702,-2.49999 2.4857024,2.4999882 0 0 1 2.485702,-2.49998 2.4857024,2.4999882 0 0 1 2.485703,2.49998 z" id="path2152-3" style="fill:#fe73c5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.490234,597.02734 a 2.4857024,2.4999882 0 0 0 -2.11914,2.47266 2.4857024,2.4999882 0 0 0 2.486328,2.5 2.4857024,2.4999882 0 0 0 0.511719,-0.0547 4.6546698,8.5063829 0 0 0 -0.878907,-4.91797 z" id="path41874" style="fill:#fe93d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 34,594 a 1,1 0 0 0 -1,1 v 15 H 17.5 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 33 v 16 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 v -16 h 4.900391 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 H 35 v -15 a 1,1 0 0 0 -1,-1 z m 9.796875,16 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 H 50.5 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" id="path33737" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 17.357157,596 c -0.55228,0 -1,0.44771 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55229 -0.44771,-1 -1,-1 z" id="path33741" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 23.857422,596 c -1.916353,0 -3.486322,1.58195 -3.486328,3.5 -1e-6,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76544 1.600039,-3 2.980469,-3 1.3804,0 2.609778,1.23462 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 28 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 -6e-6,-1.91805 -1.569974,-3.5 -3.486328,-3.5 z m 0,2 c 0.829266,0 1.486325,0.65665 1.486328,1.5 1e-6,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 3e-6,-0.84335 0.657062,-1.5 1.486328,-1.5 z" id="path6938" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 39.357157,614.00001 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path33741-0" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1;-inkscape-stroke:none"></path> <path d="m 45.857422,614 c -1.916359,0 -3.48633,1.58194 -3.486328,3.5 -10e-7,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76545 1.600036,-3 2.980469,-3 1.380403,0 2.609779,1.23461 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 50 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 10e-7,-1.91806 -1.569969,-3.5 -3.486328,-3.5 z m 0,2 c 0.829268,0 1.486329,0.65665 1.486328,1.5 10e-7,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 -10e-7,-0.84335 0.65706,-1.5 1.486328,-1.5 z" id="path6938-9" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 39.357157,596.00001 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path33741-6" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 45.857422,596 c -1.916359,0 -3.48633,1.58194 -3.486328,3.5 -10e-7,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76545 1.600036,-3 2.980469,-3 1.380403,0 2.609779,1.23461 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 50 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 10e-7,-1.91806 -1.569969,-3.5 -3.486328,-3.5 z m 0,2 c 0.829268,0 1.486329,0.65665 1.486328,1.5 10e-7,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 -10e-7,-0.84335 0.65706,-1.5 1.486328,-1.5 z" id="path6938-2" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 17.357157,614.00001 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 z" id="path33741-7" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> <path d="m 23.857422,614 c -1.916359,0 -3.48633,1.58194 -3.486328,3.5 -1e-6,0.88522 0.334286,1.69879 0.882812,2.31836 -1.544444,1.05882 -2.539062,3.02524 -2.539062,5.18164 a 1.000105,1.000105 0 0 0 1,1 h 2.65625 a 1.000005,1.000005 0 0 0 1,-1 1.000005,1.000005 0 0 0 -1,-1 h -1.494141 c 0.36871,-1.76545 1.600036,-3 2.980469,-3 1.380403,0 2.609779,1.23461 2.978516,3 h -0.501954 a 1.000005,1.000005 0 0 0 -1,1 1.000005,1.000005 0 0 0 1,1 H 28 a 1.000105,1.000105 0 0 0 1,-1 c 0,-2.1564 -0.994619,-4.12282 -2.539062,-5.18164 0.548525,-0.61957 0.882812,-1.43314 0.882812,-2.31836 1e-6,-1.91806 -1.569969,-3.5 -3.486328,-3.5 z m 0,2 c 0.829268,0 1.486329,0.65665 1.486328,1.5 1e-6,0.84335 -0.65706,1.5 -1.486328,1.5 -0.829268,0 -1.486329,-0.65665 -1.486328,-1.5 -1e-6,-0.84335 0.65706,-1.5 1.486328,-1.5 z" id="path6938-92" style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.1"></path> </g> </g></svg>   
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Romy</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
@@ -315,7 +317,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
     <div class="flex justify-center items-center">
-    <svg height="128px" width="128px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle style="fill:#99b2c7;" cx="256" cy="256" r="256"></circle> <path style="fill:#a1acba;" d="M275.939,511.233c101.693-7.833,186.742-75.085,220.482-167.091L339.573,186.939l-44.197,43.501 l-80.748-80.748l-35.5,35.164L150.99,213.94l57.31,58.14L89.385,324.677L275.939,511.233z"></path> <circle style="fill:#FFD300;" cx="182.82" cy="181.7" r="45.304"></circle> <path style="fill:#F4A200;" d="M182.813,136.406c-0.219,0-0.434,0.014-0.653,0.017v90.565c0.219,0.003,0.434,0.017,0.653,0.017 c25.017,0,45.299-20.282,45.299-45.299S207.831,136.406,182.813,136.406z"></path> <path style="fill:#FC6F58;" d="M89.385,324.679c0-51.6,41.829-93.429,93.429-93.429s93.429,41.829,93.429,93.429H89.385z"></path> <path style="fill:#F1543F;" d="M182.813,231.25c-0.219,0-0.434,0.016-0.653,0.017v93.412h94.082 C276.242,273.079,234.413,231.25,182.813,231.25z"></path> <circle style="fill:#FFD15D;" cx="304.787" cy="215.971" r="45.304"></circle> <path style="fill:#F9B54C;" d="M304.793,170.667c-0.079,0-0.157,0.005-0.236,0.005v90.586c0.079,0,0.157,0.005,0.236,0.005 c25.017,0,45.299-20.282,45.299-45.299C350.092,190.948,329.812,170.667,304.793,170.667z"></path> <path style="fill:#31BAFD;" d="M211.365,358.94c0-51.6,41.829-93.429,93.429-93.429s93.429,41.831,93.429,93.429H211.365z"></path> <path style="fill:#2B9ED8;" d="M304.793,265.511c-0.079,0-0.157,0.005-0.236,0.005v93.424h93.665 C398.222,307.341,356.393,265.511,304.793,265.511z"></path> </g></svg>    
+    <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <circle style="fill:#1B4145;" cx="312.889" cy="125.156" r="62.578"></circle> <path style="fill:#1B4145;" d="M312.889,221.867c-69.121,0-125.156,56.034-125.156,125.156h250.311 C438.044,277.901,382.01,221.867,312.889,221.867z"></path> </g> <g> <circle style="fill:#609399;" cx="125.156" cy="125.156" r="62.578"></circle> <path style="fill:#609399;" d="M125.156,221.867C56.034,221.867,0,277.901,0,347.022h250.311 C250.311,277.901,194.277,221.867,125.156,221.867z"></path> </g> <circle style="fill:#F14742;" cx="438.044" cy="375.467" r="73.956"></circle> <path style="fill:#FFFFFF;" d="M466.489,366.933h-19.911v-19.911c0-4.714-3.821-8.533-8.533-8.533s-8.533,3.82-8.533,8.533v19.911 H409.6c-4.713,0-8.533,3.82-8.533,8.533S404.887,384,409.6,384h19.911v19.911c0,4.714,3.821,8.533,8.533,8.533 s8.533-3.82,8.533-8.533V384h19.911c4.713,0,8.533-3.82,8.533-8.533S471.202,366.933,466.489,366.933z"></path> </g></svg>
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Shjfsdractice</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
@@ -323,12 +325,20 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     </p>
   </div>
 </div>
+<div class="mt-10 flex justify-center">
+  <a href="">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-full">
+      Events on eventbrite
+    </button>
+  </a>
+</div>
 </section>
 </div>
 <!-- /Events -->
 <!-- Bio -->
 <div class="relative mt-20 w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
-  <section class="mx-auto max-w-7xl">
+  <section class="mx-auto max-w-2xl">
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-600 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Bio</p>
 <h2 class="mb-4 text-4xl font-extrabold">
@@ -342,6 +352,8 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="relative">
        {{< figure
     src="map.webp"
+    height="50%"
+    width="50%"
     alt="Abstract purple artwork"
     >}}
     </div>
@@ -349,7 +361,15 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
       <div class="flex flex-col">
           <h3 class="text-xl font-bold">Real & Imaginatory</h3>
           <p class="mt-4 text-neutral-500 dark:text-neutral-300">
-            All recipes are written using certain conventions, which define the characteristics of common ingredients. The rules vary from place to place.
+            All recipes are written using certain conventions, which define the characteristics of common ingredients. The rules vary from place to place.</p>
+            <div class="mt-10 flex justify-center">
+  <a href="">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-full">
+      Explore more
+    </button>
+  </a>
+</div>
       </div>
     </div>
   </div>
@@ -411,6 +431,14 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
       A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
     </p>
   </div>
+</div>
+<div class="mt-10 flex justify-center">
+  <a href="">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-full">
+      Explore more
+    </button>
+  </a>
 </div>
 </section>
 </div>
@@ -560,10 +588,58 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         <p class="text-lg mb-10 lg:mb-14">
           Languages spoken and written: English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
-        <a href="#" class="inline-flex justify-center items-center py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
+        <a href="#" class="inline-flex justify-center items-center mb-10 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
           bg-primary-600 dark:bg-primary-500">
           📨 Contact form
-        </a>  
+        </a><br>
+        <!-- Github -->
+<button
+  type="button"
+  data-te-ripple-init
+  data-te-ripple-color="light"
+  class="mb-2 inline-block rounded mr-2 text-xs font-medium uppercase leading-normal text-white shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg">
+<svg width="64px" height="64px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>team-collaboration/version-control/git</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="team-collaboration/version-control/git" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="container" transform="translate(2.000000, 2.000000)" fill="#000000" fill-rule="nonzero" stroke="#000000" stroke-width="2"> <rect id="mask" x="-1" y="-1" width="71" height="71" rx="14"> </rect> </g> <g id="git-logo" transform="translate(21.000000, 19.000000)" fill-rule="nonzero"> <path d="M19.43875,26.0023125 L14.8751875,26.0023125 L14.8751875,12.7198125 C14.5418125,12.836625 14.1139375,12.9639375 13.5206875,13.1004375 C13.7215,13.6779375 13.8750625,14.22 13.8750625,14.724 C13.8750625,16.3370625 13.388125,17.7414375 12.4208125,18.937125 C11.4495625,20.1328125 10.1974375,20.8455 8.6618125,21.0699375 C7.6538125,21.2195625 7.1498125,21.7629375 7.1498125,22.696125 C7.1498125,23.021625 7.31125,23.34975 7.639375,23.677875 C8.0685625,24.1543125 8.694625,24.4588125 9.52675,24.580875 C13.1295625,25.1386875 14.9276875,26.6349375 14.9276875,29.0788125 C14.9276875,32.9848125 12.5940625,34.9365 7.933375,34.9365 C6.0210625,34.9365 4.43425,34.59525 3.2018125,33.918 C1.6399375,33.0609375 0.838,31.7116875 0.838,29.8741875 C0.838,27.75975 1.927375,26.308125 4.310875,25.5285 L4.310875,25.455 C3.449875,24.92475 3.066625,24.118875 3.066625,23.0360625 C3.066625,21.625125 3.449875,20.743125 4.310875,20.38875 L4.310875,20.312625 C3.449875,20.037 2.791,19.407 2.161,18.42525 C1.45225,17.3660625 1.103125,16.236 1.103125,15.025875 C1.103125,13.2106875 1.7475625,11.7013125 3.0338125,10.4911875 C4.2675625,9.3585 5.738875,8.7915 7.453,8.7915 C8.6854375,8.7915 9.7800625,9.0920625 10.8379375,9.697125 C12.0218125,9.697125 13.398625,9.4044375 14.8778125,8.82825 L14.8778125,8.0368125 L19.441375,8.0368125 L19.441375,26.0023125 L19.43875,26.0023125 Z" id="Path" fill="#FFFFFF"> </path> <path d="M19.1171875,5.2018125 C18.59875,5.7556875 17.98975,6.032625 17.2849375,6.032625 C16.5525625,6.032625 15.9304375,5.7556875 15.4133125,5.2018125 C14.8975,4.6479375 14.6389375,3.9916875 14.6389375,3.237 C14.6389375,2.457375 14.894875,1.788 15.4133125,1.2354375 C15.9304375,0.68025 16.553875,0.404625 17.2849375,0.404625 C17.987125,0.404625 18.5974375,0.68025 19.1171875,1.2354375 C19.633,1.7893125 19.8941875,2.4586875 19.8941875,3.237 C19.8941875,3.9916875 19.633,4.6479375 19.1171875,5.2018125 Z" id="Path" fill="#FFFFFF"> </path> <path d="M30.5070625,25.2620625 C29.6434375,25.77 28.48975,26.0206875 27.179875,26.0206875 C25.342375,26.0206875 24.103375,25.3644375 23.3985625,24.0519375 C22.8683125,23.0728125 22.601875,21.52275 22.601875,19.407 L22.601875,12.93375 L20.3509375,12.93375 L20.3509375,8.767875 L22.601875,8.767875 L22.601875,6.363375 L26.675875,6.363375 C26.696875,6.956625 26.7270625,8.21925 26.7401875,8.767875 L30.2314375,8.767875 L30.2314375,12.93375 L26.7454375,12.93375 L26.7454375,19.5973125 C26.7454375,21.283875 27.2914375,22.129125 28.403125,22.129125 C29.18275,22.129125 29.8219375,21.9178125 30.511,21.4873125 L30.511,25.263375 L30.5070625,25.263375 L30.5070625,25.2620625 Z" id="Path" fill="#FFFFFF"> </path> <path d="M7.602625,12.267 C6.017125,12.267 5.2230625,13.2001875 5.2230625,15.0639375 C5.2230625,16.8016875 6.017125,17.6705625 7.602625,17.6705625 C9.1395625,17.6705625 9.9060625,16.78725 9.9060625,15.025875 C9.9060625,14.2935 9.7301875,13.6648125 9.3784375,13.1371875 C8.94925,12.558375 8.358625,12.267 7.602625,12.267 Z" id="Shape" fill="#000000"> </path> <path d="M4.8083125,29.64975 C4.8083125,30.9556875 5.91475,31.6119375 8.1315625,31.6119375 C10.0714375,31.6119375 11.0400625,30.93075 11.0400625,29.571 C11.0400625,28.2860625 9.9835,27.6429375 7.8664375,27.6429375 C5.8268125,27.6455625 4.807,28.3123125 4.8083125,29.64975 Z" id="Shape" fill="#000000"> </path> </g> </g> </g></svg>
+</button>
+<!-- Telegram -->
+<button
+  type="button"
+  data-te-ripple-init
+  data-te-ripple-color="light"
+  class="mr-2 inline-block">
+  <svg xmlns="http://www.w3.org/2000/svg" aria-label="Telegram" role="img" viewBox="0 0 512 512" width="64px" height="64px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#37aee2"></rect><path fill="#c8daea" d="M199 404c-11 0-10-4-13-14l-32-105 245-144"></path><path fill="#a9c9dd" d="M199 404c7 0 11-4 16-8l45-43-56-34"></path><path fill="#f6fbfe" d="M204 319l135 99c14 9 26 4 30-14l55-258c5-22-9-32-24-25L79 245c-21 8-21 21-4 26l83 26 190-121c9-5 17-3 11 4"></path></g></svg>
+</button>
+<!-- Archive.org -->
+<button
+  type="button"
+  data-te-ripple-init
+  data-te-ripple-color="light"
+  class="mr-2 inline-block">
+ <svg xmlns="http://www.w3.org/2000/svg" aria-label="Internet Archive" role="img" viewBox="0 0 512.00 512.00" width="64px" height="64px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="0" y="0" width="512.00" height="512.00" rx="0" fill="#ffffff" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#ffffff"></rect><path d="m81 419h350v18h-350zm14-34h323v25h-323zm-2-284h321v35h-321zm319-10 10-11-169-39-168 39 10 11h158zm-273 154-1-51-3-47c0-2 0-2-2-2a67 67 0 0 0 -28 0c-1 0-2 0-2 2l-2 47a2223 2223 0 0 0 0 127l2 43 1 8 15 3c6-1 11-1 16-3l1-8 2-43a1616 1616 0 0 0 1-76zm88 0-2-51-2-47c0-2-1-2-2-2a67 67 0 0 0 -28 0c-2 0-2 0-2 2l-3 47a2223 2223 0 0 0 0 127l2 43 1 8c5 2 11 2 16 3l16-3v-8l2-43a1620 1620 0 0 0 2-76zm101 0-1-51-3-47c0-2 0-2-2-2a67 67 0 0 0 -28 0c-1 0-2 0-2 2l-2 47a2223 2223 0 0 0 0 127l2 43 1 8 15 3c5-1 11-1 16-3l1-8 2-43a1624 1624 0 0 0 1-76zm85 0-1-51-2-47c0-2-1-2-2-2a67 67 0 0 0 -29 0l-1 2-3 47a2227 2227 0 0 0 0 127l2 43 1 8c5 2 10 2 16 3l15-3 1-8 2-43a1620 1620 0 0 0 1-76z"></path></g></svg>
+</button>
+<!-- Email -->
+<button
+  type="button"
+  data-te-ripple-init
+  data-te-ripple-color="light"
+  class="mr-2 inline-block">
+ <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#FA6E51;" d="M512,256.006C512,397.402,397.394,512.004,256.004,512C114.606,512.004,0,397.402,0,256.006 C-0.007,114.61,114.606,0,256.004,0C397.394,0,512,114.614,512,256.006z"></path> <path style="fill:#E8573F;" d="M512,256.005c0-13.015-0.987-25.798-2.861-38.291c-0.14-0.138-0.272-0.282-0.417-0.417 c-0.367-0.394-0.742-0.769-1.136-1.136c-0.368-0.395-87.19-87.217-87.585-87.585c-4.134-4.437-9.981-7.258-16.511-7.258H108.51 c-12.481,0-22.633,10.148-22.633,22.629v224.103c0,6.529,2.82,12.373,7.258,16.507c0.368,0.395,0.743,0.771,1.139,1.139 c0.367,0.395,122.45,122.476,122.845,122.843c0.194,0.208,0.399,0.4,0.599,0.599c12.492,1.873,25.274,2.86,38.288,2.86 C397.394,512.004,512,397.401,512,256.005z"></path> <path style="fill:#F4F6F9;" d="M403.49,121.319H108.51c-12.481,0-22.633,10.148-22.633,22.629v224.104 c0,12.481,10.151,22.629,22.633,22.629h294.981c12.481,0,22.633-10.148,22.633-22.629V143.949 C426.123,131.468,415.971,121.319,403.49,121.319z M100.053,145.605l112.945,114.859L100.053,366.766V145.605z M265.76,274.061 c-5.466,5.302-14.038,5.302-19.399,0.117L109.995,135.497h292.011L265.76,274.061z M222.945,270.579l13.429,13.658 c5.486,5.316,12.523,7.982,19.58,7.982c7.095,0,14.211-2.692,19.791-8.099l10.074-10.244l115.459,102.63H110.4L222.945,270.579z M295.771,263.754l116.176-118.148v221.415L295.771,263.754z"></path> </g></svg>
+</button>
+<!-- Eventbrite -->
+<button
+  type="button"
+  data-te-ripple-init
+  data-te-ripple-color="light"
+  class="mr-2 inline-block">
+  <svg width="64px" height="64px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <circle fill="#F05537" cx="128" cy="128" r="128"> </circle> <path d="M117.475323,82.7290398 C136.772428,78.4407943 156.069532,86.3025777 166.790146,101.311437 L81.5017079,120.608542 C84.3605382,102.26438 98.1782181,87.0172853 117.475323,82.7290398 Z M167.266618,153.48509 C160.596014,163.252761 150.351872,170.161601 138.678314,172.782195 C119.38121,177.070441 99.8458692,169.208657 89.1252554,153.961562 L174.651929,134.664457 L188.469609,131.567391 L215.152026,125.611495 C214.91379,119.893834 214.199082,114.176173 213.007903,108.696749 C202.287289,62.7172275 155.354825,33.8906884 108.42236,44.6113021 C61.4898956,55.3319159 32.1868848,101.073201 43.1457344,147.290958 C54.1045839,193.508715 100.798813,222.097018 147.731277,211.376404 C175.366637,205.182272 196.807864,186.599875 207.766714,163.014525 L167.266618,153.48509 L167.266618,153.48509 Z" fill="#FFFFFF" fill-rule="nonzero"> </path> </g> </g></svg>
+</button>
+<!-- RSS -->
+<button
+  type="button"
+  data-te-ripple-init
+  data-te-ripple-color="light"
+  class="inline-block">
+  <svg xmlns="http://www.w3.org/2000/svg" aria-label="RSS" role="img" viewBox="0 0 512 512" width="64px" height="64px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#f80"></rect><circle cx="145" cy="367" r="35" fill="#ffffff"></circle><path fill="none" stroke="#ffffff" stroke-width="60" d="M109 241c89 0 162 73 162 162m114 0c0-152-124-276-276-276"></path></g></svg>
+</button>
     </div>
   </div>
 </section>
@@ -580,24 +656,30 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   Learning from ees
 </p>
 </div>
-<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-  <div class="text-center">
-    <h3 class="mb-10" style="font-size:6rem">7K</h3>
-    <p class="mb-2 text-5xl">Shows</p>
-  </div>
-  <div class="text-center">
-    <h3 class="mb-10" style="font-size:6rem">7K</h3>
-    <p class="mb-2 text-5xl">Y. Views</p>
-  </div>
-  <div class="text-center">
-    <h3 class="mb-10" style="font-size:6rem">7K</h3>
-    <p class="mb-2 text-5xl">Winnings</p>
-  </div>
-  <div class="text-center">
-    <h3 class="mb-10" style="font-size:6rem">7K</h3>
-    <p class="mb-2 text-5xl">Experience</p>
-  </div>
-</div>
+{{< chart >}}
+type: 'bar',
+data: {
+  labels: ['1.7K Loss', '13K Wins', '87% Certainty', '27Y Experience'],
+  datasets: [{
+    label: 'My First Dataset',
+    data: [13, 87, 87, 97],
+    backgroundColor: [
+      'rgba(201, 203, 207, 0.2)',
+      'rgba(75, 192, 192, 0.2)',
+      'rgba(255, 99, 132, 0.2)',
+      'rgba(255, 205, 86, 0.2)',
+    ],
+    borderColor: [
+      'rgb(201, 203, 207)',
+      'rgb(75, 192, 192)',
+      'rgb(255, 99, 132)',
+      'rgb(255, 205, 86)',
+    ],
+    borderWidth: 1
+  }]
+}
+{{< /chart >}}
+</section>
 </div>
 <!-- /Stats -->
 {{< /rawhtml >}}
