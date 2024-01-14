@@ -33,9 +33,6 @@
     {{- partial "search.html" . -}}
     {{ end }}
   </div>
-  {{ if hugo.IsProduction }}
-{{ partial "cookie-notice.html" }}
-{{ end }}
 </body>
 {{ if .Site.Params.buymeacoffee.globalWidget | default false }}
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"

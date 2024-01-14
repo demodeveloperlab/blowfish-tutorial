@@ -129,11 +129,11 @@ disableTextInHeader = false
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  #identifier = ""
-  #globalWidget = true
-  #globalWidgetMessage = "Hello"
-  #globalWidgetColor = "#FFDD00"
-  #globalWidgetPosition = "Right"
+#identifier = ""
+globalWidget = true
+globalWidgetMessage = "Cookie consent. This site is not gathering cookies"
+#globalWidgetColor = "#FFDD00"
+globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
