@@ -5,11 +5,11 @@ description: ""
 {{< rawhtml >}}
 <section class="cointainer mb-6">
   <!-- Jumbotron -->
-  <div class="bg-neutral-50 px-6 py-12 text-center dark:bg-neutral-900 md:px-12 lg:text-left">
+  <div class="bg-neutral-50 px-6 py-6 text-center dark:bg-neutral-900 md:px-12 lg:text-left">
     <div class="w-100 mx-auto sm:max-w-2xl">
       <div class="grid items-center gap-12 lg:grid-cols-2">
-        <div class="mt-12 lg:mt-0">
-          <h1 class="mt-8 mb-16 font-bold tracking-tight" style="font-size:4.5rem">
+        <div class="lg:mt-0">
+          <h1 class="mb-16 font-bold tracking-tight" style="font-size:4.5rem">
             Title
           </h1>
           <h2 class="mb-8 text-4xl font-extrabold text-primary-400">template for Astro 4.0 + Tailwind CSS
@@ -23,7 +23,7 @@ description: ""
           <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-center">
             Ask a Question
         <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0       0 14 10">
-          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9       9"/></svg>
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
         </a>
         </div>
         <div class="mt-8">
