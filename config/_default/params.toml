@@ -130,10 +130,10 @@ disableTextInHeader = false
 
 [buymeacoffee]
 #identifier = ""
-globalWidget = true
-globalWidgetMessage = "Cookie consent. This site is not gathering cookies"
+#globalWidget = true
+#globalWidgetMessage = "Cookie consent. This site is not gathering cookies"
 #globalWidgetColor = "#FFDD00"
-globalWidgetPosition = "Right"
+#globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
