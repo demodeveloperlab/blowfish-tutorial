@@ -586,7 +586,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         </p>
         </div>
         <p class="text-lg mb-10 lg:mb-14">
-          Languages spoken and written: English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
+          Languages spoken and written:<br> English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
         <a href="#" class="inline-flex justify-center items-center mb-10 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
           bg-primary-600 dark:bg-primary-500">
