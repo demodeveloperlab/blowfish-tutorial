@@ -15,11 +15,11 @@ description: ""
           <h2 class="mb-8 text-4xl font-extrabold text-primary-500">template for Astro 4.0 + Tailwind CSS
           </h2>
           <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
-           AstroWind is a free, customizable and production-ready template for Astro 4.0 + Tailwind CSS. Suitable for Startups, Small       Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages & Blogs.          </p>
-          <a href="#" class="inline-flex justify-center items-center mt-4 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
-          bg-primary-600 dark:bg-primary-500">
+           AstroWind is a free, customizable and production-ready template for Astro 4.0 + Tailwind CSS. Suitable for Startups, Small Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages & Blogs.</p>
+          <a href="#" class="inline-flex justify-center items-center mt-4 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50 bg-primary-600 dark:bg-primary-500">
            Read more
-        </a>  
+        </a>
+        <span class="mr-2"></span>
           <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">
             Ask a Question
         <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0       0 14 10">
