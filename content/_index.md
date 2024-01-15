@@ -3,16 +3,16 @@ title: ""
 description: ""
 ---
 {{< rawhtml >}}
-<section class="cointainer mb-8">
+<section class="cointainer">
   <!-- Jumbotron -->
   <div class="bg-neutral-50 px-6 py-6 text-center dark:bg-neutral-900 md:px-12 lg:text-left">
     <div class="w-100 mx-auto sm:max-w-2xl">
-      <div class="grid items-center gap-12 lg:grid-cols-2">
+      <div class="grid items-center gap-12 lg:grid-cols-2 mb-20">
         <div class="lg:mt-0">
           <h1 class="mb-16 font-bold tracking-tight" style="font-size:4.5rem">
             Title
           </h1>
-          <h2 class="mb-8 text-4xl font-extrabold text-primary-400">template for Astro 4.0 + Tailwind CSS
+          <h2 class="mb-8 text-4xl font-extrabold text-primary-500">template for Astro 4.0 + Tailwind CSS
           </h2>
           <p class="mt-8 mx-auto text-2xl mb-10 prose dark:prose-invert max-lg">
            AstroWind is a free, customizable and production-ready template for Astro 4.0 + Tailwind CSS. Suitable for Startups, Small       Business, SaaS websites, Professional Portfolios, Marketing websites, Landing Pages & Blogs.          </p>
@@ -20,7 +20,7 @@ description: ""
           bg-primary-600 dark:bg-primary-500">
            Read more
         </a>  
-          <a href="#" class="inline-flex justify-center items-center mt-4 py-3 px-5 text-center">
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-3 px-5 text-center">
             Ask a Question
         <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0       0 14 10">
           <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
@@ -92,7 +92,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
     <div class="flex">
       <div class="mr-4">
-        <svg width="64px" height="64px" viewBox="-12.8 -12.8 153.60 153.60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-12.8" y="-12.8" width="153.60" height="153.60" rx="76.8" fill="#c752a2" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M31.13 110.55c0-4.3 6.01-19.49 6.01-19.49c5.79-1.79 47.6-.27 53.97-.27c0 0 5.76 12.33 5.76 19.76S79.19 124 64.06 124s-32.93-6.02-32.93-13.45z" fill="#8b5738"> </path> <ellipse cx="64.06" cy="93.5" rx="27.05" ry="11.75" fill="#ffb17a"> </ellipse> <g> <path d="M38.67 106.15c3.02 1.72 7.8 1.59 11.51 2.26c4.72.86 7.39 4.46 16.49 4.3c3.25-.06 10.83-.43 10.41-.42c-.26-.53-1.74-1.04-4.62-1.49c-2.64-.42-4.54-.38-7.6-.38c-2.34 0-5.55-.7-8.79-2.48c-1.48-.81-3.78-1.71-6.03-2.17c-3.46-.71-5.87.04-10.7-2.25c-2.31-1.09-4.18-3.35-4.62-5.98l-1.14 3.28c1.5 2.75 2.87 4.07 5.09 5.33z" fill="#cc8552"> </path> <path d="M88.44 103.46c-7.74 4.92-14.28 4.37-14.28 4.37c-.55.36 3.96 1.33 7.31.77c6.58-1.1 10.58-4.4 13.18-8.82c-.36-1.12-1.15-3.24-1.15-3.24c-.75 1.81-1.62 4.73-5.06 6.92z" fill="#cc8552"> </path> <path d="M74.51 117.42c-4.28.78-8.38-.55-12.59-1.54c-5.77-1.35-16.61-1.16-16.61-1.16c-.65.32 5.11 2.41 7.91 2.65c2.55.22 5.25 0 7.67.99c3.41 1.39 6.71 2.09 10.01 2.09c6.27 0 14.46-3.78 16.41-8.69c0 0-3.58 2.1-6.36 3.51c-2.02 1.03-4.2 1.75-6.44 2.15z" fill="#a86d44"> </path> <path d="M35.82 111.48c.85 1.36 1.72 2.62 2.86 3.75c1.93 1.92 4.37 3.03 5.94 2.75c0 0-5.56-4.49-4.97-5.66c.3-.6 11.84.35 11.84.35s-3.5-1.84-6.91-2.5c-2.21-.43-6.25.43-9.93-2.16c-2.03-1.43-2.34-3.15-2.34-3.15s-.73 2.49-.88 3.44c2.13 2.23 4.11 2.73 4.39 3.18z" fill="#a86d44"> </path> <path d="M94.3 106.54c-2.02 1.81-5.21 5.47-5.21 7.36c0 0 3.58-3.47 5.99-5.06c.6-.39 1.03-.89 1.5-1.42c0 0-.24-1.79-.62-3.06c-.15.85-.76 1.38-1.66 2.18z" fill="#a86d44"> </path> </g> <g> <radialGradient id="IconifyId17ecdb2904d178eab7492" cx="77.121" cy="66.694" r="76.184" gradientTransform="rotate(-3.714 -608.323 2.714)" gradientUnits="userSpaceOnUse"> <stop offset=".104" stop-color="#ce93d8"> </stop> <stop offset="1" stop-color="#ab47bc"> </stop> </radialGradient> <circle cx="64" cy="52.76" r="48.76" fill="url(#IconifyId17ecdb2904d178eab7492)"> </circle> <radialGradient id="IconifyId17ecdb2904d178eab7493" cx="53.349" cy="46.135" r="69.389" gradientUnits="userSpaceOnUse"> <stop offset=".28" stop-color="#81d4fa" stop-opacity="0"> </stop> <stop offset=".964" stop-color="#81d4fa" stop-opacity=".9"> </stop> </radialGradient> <circle cx="64" cy="52.76" r="48.76" fill="url(#IconifyId17ecdb2904d178eab7493)"> </circle> <linearGradient id="IconifyId17ecdb2904d178eab7494" gradientUnits="userSpaceOnUse" x1="74.69" y1="10.651" x2="35.942" y2="111.007"> <stop offset="0" stop-color="#673ab7"> </stop> <stop offset=".937" stop-color="#673ab7" stop-opacity="0"> </stop> </linearGradient> <path d="M45.91 22.37c4.54.39 13.84 3.79 7.07 12.51C48.53 40.61 42.97 45.94 41 50.55c-5.69 13.33 8.57 18.77 13 20.16c3.84 1.21 11.24 3.91 13.32 7.36C75.35 91.37 50.93 95 50.93 95s17.97 6.55 32.77-3.46c5.6-3.79 10.53-12.61 5.71-20.55c-2.34-3.85-8.79-7.32-10.37-8.56c-6.76-5.34-10.93-10.86-7.57-17.05c1.36-2.5 4.2-3.8 6.95-4.56c7.7-2.13 17.31-1.75 19.82-11.26C100.41 21.36 84.57 3.04 60 6.02c-10.2 1.23-19.38 5.5-26.89 12.52c-13.86 12.97-12.66 23.7-12.66 23.7s9.03-21.3 25.46-19.87z" opacity=".7" fill="url(#IconifyId17ecdb2904d178eab7494)"> </path> <linearGradient id="IconifyId17ecdb2904d178eab7495" gradientUnits="userSpaceOnUse" x1="80.878" y1="24.934" x2="80.878" y2="108.077"> <stop offset=".235" stop-color="#1d44b3"> </stop> <stop offset=".884" stop-color="#2044b3" stop-opacity=".074"> </stop> <stop offset=".936" stop-color="#2144b3" stop-opacity="0"> </stop> </linearGradient> <path d="M99.77 24.22c-3.48-5.06-8.29-9.08-13.36-12.55c-8.09-5.53-18.55-5.98-18.55-5.98c12.84 6.14 11.4 14.28 7.21 20.1c-5.1 7.09-15.33 11.88-18 20.51c-1.56 5.04-.6 10.34 4.31 13.56s22.58 11.77 23.19 21.89c.46 7.62-5.6 12.42-5.6 12.42c7.09-1.53 22.01-11.97 17.59-22.71c-2.14-5.2-11.87-8.65-6.97-14.58c1.82-2.21 14.53-3.39 15.72-16.25c.55-6.01-2.69-12.27-5.54-16.41z" opacity=".39" fill="url(#IconifyId17ecdb2904d178eab7495)"> </path> <linearGradient id="IconifyId17ecdb2904d178eab7496" gradientUnits="userSpaceOnUse" x1="-2575.355" y1="437.519" x2="-2575.355" y2="471.206" gradientTransform="scale(-1 1) rotate(15.017 293.083 9871.848)"> <stop offset=".227" stop-color="#ffffff"> </stop> <stop offset="1" stop-color="#ffffff" stop-opacity="0"> </stop> </linearGradient> <path d="M24.71 61.66s-7.3-19.36 7.69-37.29c12.35-14.78 23.5-8.8 21.78-2.5c-1.73 6.3-7.1 8.24-15.19 14.57C28.3 44.8 24.71 61.66 24.71 61.66z" opacity=".85" fill="url(#IconifyId17ecdb2904d178eab7496)"> </path> <g> <linearGradient id="IconifyId17ecdb2904d178eab7497" gradientUnits="userSpaceOnUse" x1="85.871" y1="28.96" x2="85.871" y2="52.387"> <stop offset=".261" stop-color="#ffffff"> </stop> <stop offset="1" stop-color="#ffffff" stop-opacity="0"> </stop> </linearGradient> <path d="M92.96 34.77c-1.95-.97-3.51-2.19-4.19-4.26l-2.89-9.57l-2.89 9.57c-.68 2.06-2.25 3.29-4.19 4.26l-4.83 2.09l4.97 2.06c1.95.97 3.37 2.3 4.06 4.36l2.89 9.49l2.89-9.49c.68-2.06 2.11-3.39 4.06-4.36l4.97-2.06l-4.85-2.09z" fill="url(#IconifyId17ecdb2904d178eab7497)"> </path> <linearGradient id="IconifyId17ecdb2904d178eab7498" gradientUnits="userSpaceOnUse" x1="76.221" y1="58.161" x2="76.221" y2="85.231"> <stop offset="0" stop-color="#ffffff"> </stop> <stop offset="1" stop-color="#ffffff" stop-opacity="0"> </stop> </linearGradient> <path d="M83.31 69.37c-1.95-.97-3.51-2.19-4.19-4.26l-2.89-9.57l-2.89 9.57c-.68 2.06-2.25 3.29-4.19 4.26l-4.83 2.09l4.97 2.06c1.95.97 3.37 2.3 4.06 4.36l2.89 9.49l2.89-9.49c.68-2.06 2.11-3.39 4.06-4.36l4.97-2.06l-4.85-2.09z" fill="url(#IconifyId17ecdb2904d178eab7498)"> </path> <path d="M106.34 53.97c-1.47-.73-2.65-1.66-3.17-3.21l-2.18-7.23l-2.18 7.23c-.52 1.56-1.7 2.48-3.17 3.21L92 55.55l3.75 1.56c1.47.73 2.55 1.73 3.06 3.29l2.18 7.16l2.18-7.16c.52-1.56 1.59-2.56 3.06-3.29l3.75-1.56l-3.64-1.58z" fill="#ffffff"> </path> </g> </g> </g></svg>
+        <svg width="64px" height="64px" viewBox="-12.8 -12.8 153.60 153.60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-12.8" y="-12.8" width="153.60" height="153.60" rx="76.8" fill="#c752a2" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M31.13 110.55c0-4.3 6.01-19.49 6.01-19.49c5.79-1.79 47.6-.27 53.97-.27c0 0 5.76 12.33 5.76 19.76S79.19 124 64.06 124s-32.93-6.02-32.93-13.45z" fill="#8b5738"> </path> <ellipse cx="64.06" cy="93.5" rx="27.05" ry="11.75" fill="#ffb17a"> </ellipse> <g> <path d="M38.67 106.15c3.02 1.72 7.8 1.59 11.51 2.26c4.72.86 7.39 4.46 16.49 4.3c3.25-.06 10.83-.43 10.41-.42c-.26-.53-1.74-1.04-4.62-1.49c-2.64-.42-4.54-.38-7.6-.38c-2.34 0-5.55-.7-8.79-2.48c-1.48-.81-3.78-1.71-6.03-2.17c-3.46-.71-5.87.04-10.7-2.25c-2.31-1.09-4.18-3.35-4.62-5.98l-1.14 3.28c1.5 2.75 2.87 4.07 5.09 5.33z" fill="#cc8552"> </path> <path d="M88.44 103.46c-7.74 4.92-14.28 4.37-14.28 4.37c-.55.36 3.96 1.33 7.31.77c6.58-1.1 10.58-4.4 13.18-8.82c-.36-1.12-1.15-3.24-1.15-3.24c-.75 1.81-1.62 4.73-5.06 6.92z" fill="#cc8552"> </path> <path d="M74.51 117.42c-4.28.78-8.38-.55-12.59-1.54c-5.77-1.35-16.61-1.16-16.61-1.16c-.65.32 5.11 2.41 7.91 2.65c2.55.22 5.25 0 7.67.99c3.41 1.39 6.71 2.09 10.01 2.09c6.27 0 14.46-3.78 16.41-8.69c0 0-3.58 2.1-6.36 3.51c-2.02 1.03-4.2 1.75-6.44 2.15z" fill="#a86d44"> </path> <path d="M35.82 111.48c.85 1.36 1.72 2.62 2.86 3.75c1.93 1.92 4.37 3.03 5.94 2.75c0 0-5.56-4.49-4.97-5.66c.3-.6 11.84.35 11.84.35s-3.5-1.84-6.91-2.5c-2.21-.43-6.25.43-9.93-2.16c-2.03-1.43-2.34-3.15-2.34-3.15s-.73 2.49-.88 3.44c2.13 2.23 4.11 2.73 4.39 3.18z" fill="#a86d44"> </path> <path d="M94.3 106.54c-2.02 1.81-5.21 5.47-5.21 7.36c0 0 3.58-3.47 5.99-5.06c.6-.39 1.03-.89 1.5-1.42c0 0-.24-1.79-.62-3.06c-.15.85-.76 1.38-1.66 2.18z" fill="#a86d44"> </path> </g> <g> <radialGradient id="IconifyId17ecdb2904d178eab7492" cx="77.121" cy="66.694" r="76.184" gradientTransform="rotate(-3.714 -608.323 2.714)" gradientUnits="userSpaceOnUse"> <stop offset=".104" stop-color="#ce93d8"> </stop> <stop offset="1" stop-color="#ab47bc"> </stop> </radialGradient> <circle cx="64" cy="52.76" r="48.76" fill="url(#IconifyId17ecdb2904d178eab7492)"> </circle> <radialGradient id="IconifyId17ecdb2904d178eab7493" cx="53.349" cy="46.135" r="69.389" gradientUnits="userSpaceOnUse"> <stop offset=".28" stop-color="#81d4fa" stop-opacity="0"> </stop> <stop offset=".964" stop-color="#81d4fa" stop-opacity=".9"> </stop> </radialGradient> <circle cx="64" cy="52.76" r="48.76" fill="url(#IconifyId17ecdb2904d178eab7493)"> </circle> <linearGradient id="IconifyId17ecdb2904d178eab7494" gradientUnits="userSpaceOnUse" x1="74.69" y1="10.651" x2="35.942" y2="111.007"> <stop offset="0" stop-color="#673ab7"> </stop> <stop offset=".937" stop-color="#673ab7" stop-opacity="0"> </stop> </linearGradient> <path d="M45.91 22.37c4.54.39 13.84 3.79 7.07 12.51C48.53 40.61 42.97 45.94 41 50.55c-5.69 13.33 8.57 18.77 13 20.16c3.84 1.21 11.24 3.91 13.32 7.36C75.35 91.37 50.93 95 50.93 95s17.97 6.55 32.77-3.46c5.6-3.79 10.53-12.61 5.71-20.55c-2.34-3.85-8.79-7.32-10.37-8.56c-6.76-5.34-10.93-10.86-7.57-17.05c1.36-2.5 4.2-3.8 6.95-4.56c7.7-2.13 17.31-1.75 19.82-11.26C100.41 21.36 84.57 3.04 60 6.02c-10.2 1.23-19.38 5.5-26.89 12.52c-13.86 12.97-12.66 23.7-12.66 23.7s9.03-21.3 25.46-19.87z" opacity=".7" fill="url(#IconifyId17ecdb2904d178eab7494)"> </path> <linearGradient id="IconifyId17ecdb2904d178eab7495" gradientUnits="userSpaceOnUse" x1="80.878" y1="24.934" x2="80.878" y2="108.077"> <stop offset=".235" stop-color="#1d44b3"> </stop> <stop offset=".884" stop-color="#2044b3" stop-opacity=".074"> </stop> <stop offset=".936" stop-color="#2144b3" stop-opacity="0"> </stop> </linearGradient> <path d="M99.77 24.22c-3.48-5.06-8.29-9.08-13.36-12.55c-8.09-5.53-18.55-5.98-18.55-5.98c12.84 6.14 11.4 14.28 7.21 20.1c-5.1 7.09-15.33 11.88-18 20.51c-1.56 5.04-.6 10.34 4.31 13.56s22.58 11.77 23.19 21.89c.46 7.62-5.6 12.42-5.6 12.42c7.09-1.53 22.01-11.97 17.59-22.71c-2.14-5.2-11.87-8.65-6.97-14.58c1.82-2.21 14.53-3.39 15.72-16.25c.55-6.01-2.69-12.27-5.54-16.41z" opacity=".39" fill="url(#IconifyId17ecdb2904d178eab7495)"> </path><linearGradient id="IconifyId17ecdb2904d178eab7496" gradientUnits="userSpaceOnUse" x1="-2575.355" y1="437.519" x2="-2575.355" y2="471.206" gradientTransform="scale(-1 1) rotate(15.017 293.083 9871.848)"> <stop offset=".227" stop-color="#ffffff"> </stop> <stop offset="1" stop-color="#ffffff" stop-opacity="0"> </stop> </linearGradient> <path d="M24.71 61.66s-7.3-19.36 7.69-37.29c12.35-14.78 23.5-8.8 21.78-2.5c-1.73 6.3-7.1 8.24-15.19 14.57C28.3 44.8 24.71 61.66 24.71 61.66z" opacity=".85" fill="url(#IconifyId17ecdb2904d178eab7496)"> </path> <g> <linearGradient id="IconifyId17ecdb2904d178eab7497" gradientUnits="userSpaceOnUse" x1="85.871" y1="28.96" x2="85.871" y2="52.387"> <stop offset=".261" stop-color="#ffffff"> </stop> <stop offset="1" stop-color="#ffffff" stop-opacity="0"> </stop> </linearGradient> <path d="M92.96 34.77c-1.95-.97-3.51-2.19-4.19-4.26l-2.89-9.57l-2.89 9.57c-.68 2.06-2.25 3.29-4.19 4.26l-4.83 2.09l4.97 2.06c1.95.97 3.37 2.3 4.06 4.36l2.89 9.49l2.89-9.49c.68-2.06 2.11-3.39 4.06-4.36l4.97-2.06l-4.85-2.09z" fill="url(#IconifyId17ecdb2904d178eab7497)"> </path> <linearGradient id="IconifyId17ecdb2904d178eab7498" gradientUnits="userSpaceOnUse" x1="76.221" y1="58.161" x2="76.221" y2="85.231"> <stop offset="0" stop-color="#ffffff"> </stop> <stop offset="1" stop-color="#ffffff" stop-opacity="0"> </stop> </linearGradient> <path d="M83.31 69.37c-1.95-.97-3.51-2.19-4.19-4.26l-2.89-9.57l-2.89 9.57c-.68 2.06-2.25 3.29-4.19 4.26l-4.83 2.09l4.97 2.06c1.95.97 3.37 2.3 4.06 4.36l2.89 9.49l2.89-9.49c.68-2.06 2.11-3.39 4.06-4.36l4.97-2.06l-4.85-2.09z" fill="url(#IconifyId17ecdb2904d178eab7498)"> </path> <path d="M106.34 53.97c-1.47-.73-2.65-1.66-3.17-3.21l-2.18-7.23l-2.18 7.23c-.52 1.56-1.7 2.48-3.17 3.21L92 55.55l3.75 1.56c1.47.73 2.55 1.73 3.06 3.29l2.18 7.16l2.18-7.16c.52-1.56 1.59-2.56 3.06-3.29l3.75-1.56l-3.64-1.58z" fill="#ffffff"> </path> </g> </g> </g></svg>
       </div>
       <div>
         <h3 class="mb-4 text-xl font-bold">
@@ -174,7 +174,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-600 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Plan</p>
 <h2 class="mb-4 text-4xl font-extrabold">
-  Blueprint
+  Steps
 </h2>
 <p class="text-xl">
   Do or don't
@@ -185,90 +185,96 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <div class="relative">
        {{< figure
     src="direction.webp"
+    Resize="600x400"
     alt="Abstract purple artwork"
     >}}
     </div>
-    <div class="lg:py-6 lg:pr-16">
-      <div class="flex">
-        <div class="flex flex-col items-center mr-4">
-          <div>
-            <div class="flex">
-              <svg fill="#00d1b9" width="64px" height="64px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="#00d1b9"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>number</title> <path d="M16 3c-7.18 0-13 5.82-13 13s5.82 13 13 13 13-5.82 13-13-5.82-13-13-13zM16 27c-6.075 0-11-4.925-11-11s4.925-11 11-11 11 4.925 11 11-4.925 11-11 11zM14.828 12.709c-0.589 0.458-1.134 0.77-1.635 0.934v1.742c0.953-0.314 1.781-0.799 2.484-1.455v7.111h2.047v-10h-1.686c-0.218 0.612-0.622 1.209-1.21 1.668z"></path> </g></svg>   
-              <div class="w-px h-full bg-primary-200"></div>
-            </div>
-          </div>
-          <div class="w-px h-full bg:primary-200"></div>
-        </div>
-        <div class="pt-1 pb-8">
-          <h3 class="text-xl font-bold">Step 1</h3>
-          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
-            A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
-          </p>
-        </div>
-      </div>
-      <div class="flex">
-        <div class="flex flex-col items-center mr-4">
-          <div>
-            <div class="flex">
-              <svg fill="#59cfb1" width="64px" height="64px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="#59cfb1"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>number1</title> <path d="M16 3c-7.18 0-13 5.82-13 13s5.82 13 13 13 13-5.82 13-13-5.82-13-13-13zM16 27c-6.075 0-11-4.925-11-11s4.925-11 11-11 11 4.925 11 11-4.925 11-11 11zM17.564 17.777c0.607-0.556 1.027-0.982 1.26-1.278 0.351-0.447 0.607-0.875 0.77-1.282 0.161-0.408 0.242-0.838 0.242-1.289 0-0.793-0.283-1.457-0.848-1.99s-1.342-0.8-2.331-0.8c-0.902 0-1.654 0.23-2.256 0.69s-0.96 1.218-1.073 2.275l1.914 0.191c0.036-0.56 0.173-0.96 0.41-1.201s0.555-0.361 0.956-0.361c0.405 0 0.723 0.115 0.952 0.345 0.23 0.23 0.346 0.56 0.346 0.988 0 0.387-0.133 0.779-0.396 1.176-0.195 0.287-0.727 0.834-1.592 1.64-1.076 0.998-1.796 1.799-2.16 2.403s-0.584 1.242-0.656 1.917h6.734v-1.781h-3.819c0.101-0.173 0.231-0.351 0.394-0.534 0.16-0.183 0.545-0.552 1.153-1.109z"></path> </g></svg>
-               <div class="w-px h-full bg-gray-300"></div>
-            </div>
-          </div>
-          <div class="w-px h-full bg-primary-300"></div>
-        </div>
-        <div class="pt-1 pb-8">
-          <h3 class="text-xl font-bold">Step 2</h3>
-          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
-            The first mate and his Skipper too will do their very best to make the others comfortable in their tropic island nest. Michael Knight a young loner.
-          </p>
-        </div>
-      </div>
-      <div class="flex">
-        <div class="flex flex-col items-center mr-4">
-          <div>
-            <div class="flex">
-              <svg fill="#59cfb1" width="64px" height="64px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="#59cfb1" stroke-width="0.8"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>number2</title> <path d="M16 3c-7.18 0-13 5.82-13 13s5.82 13 13 13 13-5.82 13-13-5.82-13-13-13zM16 27c-6.075 0-11-4.925-11-11s4.925-11 11-11 11 4.925 11 11-4.925 11-11 11zM17.248 15.219c0.963-0.525 1.443-1.228 1.443-2.108 0-0.621-0.234-1.177-0.705-1.67-0.571-0.602-1.33-0.903-2.275-0.903-0.553 0-1.052 0.104-1.497 0.311s-0.792 0.493-1.042 0.855c-0.248 0.362-0.435 0.847-0.559 1.454l1.773 0.302c0.051-0.439 0.193-0.772 0.426-1.001s0.516-0.343 0.845-0.343c0.334 0 0.603 0.101 0.804 0.301 0.201 0.201 0.302 0.471 0.302 0.809 0 0.398-0.138 0.716-0.413 0.957-0.273 0.24-0.673 0.353-1.195 0.339l-0.213 1.565c0.344-0.096 0.638-0.144 0.885-0.144 0.374 0 0.691 0.141 0.952 0.423s0.391 0.665 0.391 1.147c0 0.509-0.136 0.914-0.407 1.214s-0.607 0.45-1.004 0.45c-0.37 0-0.686-0.125-0.945-0.375-0.261-0.25-0.42-0.612-0.479-1.086l-1.859 0.226c0.096 0.843 0.442 1.525 1.040 2.047s1.35 0.782 2.258 0.782c0.957 0 1.758-0.309 2.401-0.929s0.965-1.368 0.965-2.247c0-0.605-0.172-1.122-0.515-1.55-0.346-0.427-0.804-0.703-1.377-0.826z"></path> </g></svg>   
-              <div class="w-px h-full bg-gray-300"></div>
-            </div>
-          </div>
-          <div class="w-px h-full bg-gray-300"></div>
-        </div>
-        <div class="pt-1 pb-8">
-          <h3 class="text-xl font-bold">Step 3</h3>
-          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
-            Tell them I hate them. Is the Space Pope reptilian!? Tell her she looks thin. Hello, little man. I will destroy you!
-          </p>
-        </div>
-      </div>
-      <div class="flex">
-        <div class="flex flex-col items-center mr-4">
-          <div>
-            <div class="flex">
-              <svg fill="#59cfb1" width="64px" height="64px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke="#59cfb1"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>number3</title> <path d="M16 3c-7.18 0-13 5.82-13 13s5.82 13 13 13 13-5.82 13-13-5.82-13-13-13zM16 27c-6.075 0-11-4.925-11-11s4.925-11 11-11 11 4.925 11 11-4.925 11-11 11zM18.176 11.337h-1.613l-4.354 6.374v1.674h4.109v2.015h1.858v-2.016h1.243v-1.68h-1.243v-6.367zM16.317 17.705h-2.309l2.309-3.434v3.434z"></path> </g></svg>      
-              <div class="w-px h-full bg-gray-300"></div>
-            </div>
-        </div>
-        <div class="w-px h-full bg-gray-300"></div>
-        </div>
-        <div class="pt-1 pb-8">
-          <h3 class="text-xl font-bold">Step 4</h3>
-          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
-            If one examines precultural libertarianism, one is faced with a choice: either accept rationalism or conclude that context is a product.
-          </p>
-        </div>
-      </div>
-      <div class="flex">
-        <div class="flex flex-col items-center mr-4">
-          <div>
-           <svg fill="#3b82f6" height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-66.56 -66.56 645.12 645.12" xml:space="preserve" stroke="#3b82f6" stroke-width="28.160000000000004"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M491.841,156.427c-19.471-45.946-51.937-85.013-92.786-112.637C358.217,16.166,308.893-0.007,256,0 c-35.254-0.002-68.946,7.18-99.571,20.158C110.484,39.63,71.416,72.093,43.791,112.943C16.167,153.78-0.007,203.104,0,256 c-0.002,35.255,7.181,68.948,20.159,99.573c19.471,45.946,51.937,85.013,92.786,112.637C153.783,495.834,203.107,512.007,256,512 c35.253,0.002,68.946-7.18,99.571-20.158c45.945-19.471,85.013-51.935,112.638-92.785C495.834,358.22,512.007,308.894,512,256 C512.002,220.745,504.819,187.052,491.841,156.427z M460.413,342.259c-16.851,39.781-45.045,73.723-80.476,97.676 c-35.443,23.953-78.02,37.926-123.936,37.933c-30.619-0.002-59.729-6.218-86.255-17.454 c-39.781-16.851-73.724-45.044-97.677-80.475C48.114,344.495,34.14,301.917,34.133,256c0.002-30.62,6.219-59.731,17.454-86.257 c16.851-39.781,45.045-73.724,80.476-97.676C167.506,48.113,210.084,34.14,256,34.133c30.619,0.002,59.729,6.218,86.255,17.454 c39.781,16.85,73.724,45.044,97.677,80.475c23.953,35.443,37.927,78.02,37.934,123.939 C477.864,286.621,471.648,315.732,460.413,342.259z"></path> </g> </g> <g> <g> <path d="M433.11,223.51c-6.359-14.999-16.927-27.712-30.24-36.717c-6.657-4.502-14.011-8.076-21.864-10.524 c-7.852-2.448-16.206-3.765-24.812-3.764c-12.362-0.011-24.036,2.613-34.69,6.984c-9.338,3.823-17.934,8.94-25.971,14.798 c-14.059,10.268-26.501,22.793-38.382,35.605c-0.386,0.417-0.764,0.837-1.149,1.256c-0.083-0.091-0.166-0.183-0.249-0.274 c-6.661-7.219-13.506-14.351-20.697-21.066c-10.79-10.06-22.363-19.233-35.455-26.079c-6.542-3.416-13.469-6.23-20.791-8.185 c-7.318-1.956-15.027-3.04-23.007-3.038c-11.476-0.002-22.496,2.343-32.491,6.581c-14.999,6.359-27.712,16.927-36.717,30.24 c-4.502,6.657-8.076,14.011-10.524,21.864c-2.448,7.852-3.765,16.206-3.764,24.812c-0.002,11.476,2.343,22.496,6.581,32.491 c6.359,14.997,16.928,27.71,30.24,36.715c6.657,4.502,14.011,8.076,21.864,10.524c7.852,2.448,16.206,3.765,24.812,3.764 c12.362,0.01,24.036-2.613,34.69-6.984c9.338-3.823,17.934-8.94,25.971-14.798c14.059-10.268,26.501-22.793,38.382-35.605 c0.386-0.417,0.764-0.837,1.149-1.255c0.083,0.091,0.166,0.183,0.249,0.274c6.661,7.219,13.506,14.351,20.697,21.066 c10.79,10.06,22.363,19.233,35.455,26.079c6.542,3.414,13.469,6.23,20.791,8.185c7.318,1.956,15.027,3.04,23.007,3.038 c11.476,0.002,22.496-2.344,32.491-6.581c14.999-6.359,27.712-16.927,36.717-30.24c4.502-6.657,8.076-14.011,10.524-21.864 c2.448-7.852,3.765-16.206,3.764-24.811C439.693,244.525,437.348,233.505,433.11,223.51z M231.208,258.483 c-6.355,6.889-12.655,13.433-18.941,19.299c-9.426,8.813-18.817,16.044-28.117,20.884c-4.654,2.428-9.28,4.277-13.954,5.525 c-4.678,1.247-9.406,1.905-14.391,1.907c-6.941-0.002-13.479-1.403-19.462-3.934c-8.968-3.795-16.665-10.183-22.079-18.195 c-2.708-4.005-4.845-8.406-6.306-13.094c-1.461-4.69-2.251-9.666-2.251-14.873c0.002-6.941,1.403-13.479,3.934-19.461 c3.795-8.967,10.183-16.665,18.196-22.079c4.004-2.708,8.406-4.845,13.096-6.306c4.69-1.461,9.666-2.251,14.873-2.251 c7.708,0.01,14.84,1.562,22.044,4.497c6.287,2.569,12.592,6.242,18.941,10.873c11.116,8.086,22.275,19.114,33.553,31.311 c1.039,1.122,2.085,2.278,3.127,3.418C232.718,256.826,231.961,257.668,231.208,258.483z M402.36,275.464 c-3.795,8.968-10.183,16.665-18.196,22.079c-4.004,2.708-8.406,4.845-13.096,6.306c-4.69,1.461-9.666,2.251-14.873,2.251 c-7.708-0.01-14.84-1.562-22.044-4.497c-6.287-2.569-12.592-6.242-18.941-10.873c-11.116-8.086-22.275-19.114-33.553-31.311 c-1.039-1.122-2.085-2.279-3.127-3.418c0.754-0.825,1.511-1.667,2.263-2.481c6.355-6.889,12.655-13.433,18.941-19.299 c9.426-8.813,18.817-16.044,28.117-20.884c4.654-2.428,9.28-4.277,13.954-5.525c4.678-1.247,9.406-1.905,14.391-1.907 c6.941,0.002,13.479,1.403,19.462,3.934c8.968,3.795,16.665,10.183,22.079,18.196c2.708,4.005,4.845,8.406,6.306,13.094 c1.461,4.69,2.251,9.666,2.251,14.873C406.293,262.942,404.892,269.48,402.36,275.464z"></path> </g> </g> </g></svg>
-            <div class="w-px h-full bg-gray-300"></div>
-          </div>
-        </div>
-        <div class="pt-1">
-          <h3 class="text-xl font-bold">Loop, Let's do it again</h3>
-          <p class="mt-4 text-neutral-500 dark:text-neutral-300">Till you can do it with your eyes closed, hanging by feet up</p>
-        </div>
-      </div>
+    <div class="lg:py-6">
+        <div class="flex">
+       <div class="flex flex-col items-center mr-4">
+         <div>
+           <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-500">
+             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+             <path stroke-linecap="round" stroke-linejoin="round" d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" /></svg>
+           </div>
+         </div>
+         <div class="w-px h-full bg-primary-500"></div>
+       </div>
+       <div class="pt-1 pb-8">
+         <p class="mb-2 text-xl font-bold">Step 1</p>
+         <p class="mt-4 text-neutral-500 dark:text-neutral-300">
+           Where, when? Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+       </div>
+     </div>
+     <div class="flex">
+       <div class="flex flex-col items-center mr-4">
+         <div>
+           <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-500">
+             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+             <path stroke-linecap="round" stroke-linejoin="round" d="M15.362 5.214A8.252 8.252 0 0 1 12 21 8.25 8.25 0 0 1 6.038 7.047 8.287 8.287 0 0 0 9 9.601a8.983 8.983 0 0 1 3.361-6.867 8.21 8.21 0 0 0 3 2.48Z" />
+             <path stroke-linecap="round" stroke-linejoin="round" d="M12 18a3.75 3.75 0 0 0 .495-7.468 5.99 5.99 0 0 0-1.925 3.547 5.975 5.975 0 0 1-2.133-1.001A3.75 3.75 0 0 0 12 18Z" /></svg>
+           </div>
+         </div>
+         <div class="w-px h-full bg-primary-500"></div>
+       </div>
+       <div class="pt-1 pb-8">
+         <p class="mb-2 text-xl font-bold">Step 2</p>
+         <p class="mt-4 text-neutral-500 dark:text-neutral-300">
+           Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+       </div>
+     </div>
+     <div class="flex">
+       <div class="flex flex-col items-center mr-4">
+         <div>
+           <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-500">
+             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+             <path stroke-linecap="round" stroke-linejoin="round" d="M6 13.5V3.75m0 9.75a1.5 1.5 0 0 1 0 3m0-3a1.5 1.5 0 0 0 0 3m0 3.75V16.5m12-3V3.75m0 9.75a1.5 1.5 0 0 1 0 3m0-3a1.5 1.5 0 0 0 0 3m0 3.75V16.5m-6-9V3.75m0 3.75a1.5 1.5 0 0 1 0 3m0-3a1.5 1.5 0 0 0 0 3m0 9.75V10.5" /></svg>
+           </div>
+         </div>
+         <div class="w-px h-full bg-primary-500"></div>
+       </div>
+       <div class="pt-1 pb-8">
+         <p class="mb-2 text-xl font-bold">Step 1</p>
+         <p class="mt-4 text-neutral-500 dark:text-neutral-300">
+           Sensation quality. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+       </div>
+     </div>
+     <div class="flex">
+       <div class="flex flex-col items-center mr-4">
+         <div>
+           <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-500">
+             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+             <path stroke-linecap="round" stroke-linejoin="round" d="M3.375 19.5h17.25m-17.25 0a1.125 1.125 0 0 1-1.125-1.125M3.375 19.5h1.5C5.496 19.5 6 18.996 6 18.375m-3.75 0V5.625m0 12.75v-1.5c0-.621.504-1.125 1.125-1.125m18.375 2.625V5.625m0 12.75c0 .621-.504 1.125-1.125 1.125m1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125m0 3.75h-1.5A1.125 1.125 0 0 1 18 18.375M20.625 4.5H3.375m17.25 0c.621 0 1.125.504 1.125 1.125M20.625 4.5h-1.5C18.504 4.5 18 5.004 18 5.625m3.75 0v1.5c0 .621-.504 1.125-1.125 1.125M3.375 4.5c-.621 0-1.125.504-1.125 1.125M3.375 4.5h1.5C5.496 4.5 6 5.004 6 5.625m-3.75 0v1.5c0 .621.504 1.125 1.125 1.125m0 0h1.5m-1.5 0c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125m1.5-3.75C5.496 8.25 6 7.746 6 7.125v-1.5M4.875 8.25C5.496 8.25 6 8.754 6 9.375v1.5m0-5.25v5.25m0-5.25C6 5.004 6.504 4.5 7.125 4.5h9.75c.621 0 1.125.504 1.125 1.125m1.125 2.625h1.5m-1.5 0A1.125 1.125 0 0 1 18 7.125v-1.5m1.125 2.625c-.621 0-1.125.504-1.125 1.125v1.5m2.625-2.625c.621 0 1.125.504 1.125 1.125v1.5c0 .621-.504 1.125-1.125 1.125M18 5.625v5.25M7.125 12h9.75m-9.75 0A1.125 1.125 0 0 1 6 10.875M7.125 12C6.504 12 6 12.504 6 13.125m0-2.25C6 11.496 5.496 12 4.875 12M18 10.875c0 .621-.504 1.125-1.125 1.125M18 10.875c0 .621.504 1.125 1.125 1.125m-2.25 0c.621 0 1.125.504 1.125 1.125m-12 5.25v-5.25m0 5.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125m-12 0v-1.5c0-.621-.504-1.125-1.125-1.125M18 18.375v-5.25m0 5.25v-1.5c0-.621.504-1.125 1.125-1.125M18 13.125v1.5c0 .621.504 1.125 1.125 1.125M18 13.125c0-.621.504-1.125 1.125-1.125M6 13.125v1.5c0 .621-.504 1.125-1.125 1.125M6 13.125C6 12.504 5.496 12 4.875 12m-1.5 0h1.5m-1.5 0c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125M19.125 12h1.5m0 0c.621 0 1.125.504 1.125 1.125v1.5c0 .621-.504 1.125-1.125 1.125m-17.25 0h1.5m14.25 0h1.5" /></svg>
+           </div>
+         </div>
+         <div class="w-px h-full bg-primary-500"></div>
+       </div>
+       <div class="pt-1 pb-8">
+         <p class="mb-2 text-xl font-bold">Step 1</p>
+         <p class="mt-4 text-neutral-500 dark:text-neutral-300">
+           Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love, kindness, flexibility.
+         </p>
+       </div>
+     </div>
+     <div class="flex">
+       <div class="flex flex-col items-center mr-4">
+         <div>
+           <div class="flex items-center justify-center w-12 h-12 border rounded-full border-primary-500">
+             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+             <path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" /></svg>
+           </div>
+         </div>
+       </div>
+       <div class="pt-1 pb-8">
+         <p class="mb-2 text-xl font-bold">Step 1</p>
+         <p class="mt-4 text-neutral-500 dark:text-neutral-300">
+           Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love, kindness, flexibility.
+         </p>
+       </div>
+     </div>
     </div>
   </div>
   </div>

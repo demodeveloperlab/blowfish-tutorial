@@ -17,7 +17,7 @@ series_order: 1
 ![hello](dog.webp)
 Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly.
 
-Detailed installation instructions can be found below. Instructions for are also available.
+> Detailed installation instructions can be found below. Instructions for are also available.
 
 ## Installation
 
