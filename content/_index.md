@@ -599,6 +599,10 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
           📨 Contact form
         </a><br>
         <!-- Github -->
+        <a target="_blank" class="m-1 rounded bg-neutral-300 p-1.5 items-center justify-center mx-auto text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label=""> {{< icon "github" >}}</a>
+        <a target="_blank" class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label="">git</a>
+      
+    </a>
 <button
   type="button"
   data-te-ripple-init

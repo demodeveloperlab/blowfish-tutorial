@@ -1,6 +1,6 @@
 {{ with .Params.sharingLinks | default (.Site.Params.article.sharingLinks | default false) }}
   {{ $links := site.Data.sharing }}
-  <section class="flex flex-row flex-wrap justify-center pt-4 text-5xl">
+  <section class="flex flex-row flex-wrap justify-center pt-4 text-3xl">
     {{ range . }}
       {{ with index $links . }}
       <a
