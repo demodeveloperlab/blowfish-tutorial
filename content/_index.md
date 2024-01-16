@@ -39,7 +39,7 @@ description: ""
 </section>
   <!-- Quote -->
   <section>
-<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 py-6 mb-20 rounded-xl text-neutral-50">
+<div class="bg-gradient-to-r from-primary-500 to-secondary-700 dark:from-primary-500 dark:to-secondary-700 px-6 py-6 mb-20 rounded-xl text-neutral-50">
 <div class="container text-center text-lg">
 Philosophy: Keep It Simple Stupid principle. Delicate dance of flow and elegance!
 </div>
@@ -79,7 +79,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 <div class="grid sm:grid-cols-2 gap-6 md:gap-12">
   <div class="flex">
     <div class="mr-4">
-      <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 503.76 503.76" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="2.015024"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#EF705D;" d="M267.715,357.098c-13.885,0-28.637-5.207-39.919-16.488l-27.769-28.637 c-3.471-3.471-3.471-8.678,0-12.149c3.471-3.471,8.678-3.471,12.149,0l28.637,28.637c16.488,16.488,43.39,13.017,59.01,0 c7.81-7.81,11.281-18.224,11.281-28.637c0-11.281-4.339-21.695-12.149-29.505l-20.827-21.695c-3.471-3.471-3.471-8.678,0-12.149 s8.678-3.471,12.149,0l20.827,20.827c11.281,11.281,17.356,26.034,17.356,41.654s-6.075,30.373-17.356,41.654 C299.824,350.156,284.203,357.098,267.715,357.098"></path> <path style="fill:#EF705D;" d="M136.678,469.044c-2.603,0-4.339-0.868-6.075-2.603L16.922,353.627 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l35.58,35.58c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-35.58-35.58c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l113.681,113.681 c3.471,3.471,3.471,8.678,0,12.149C141.017,468.176,138.414,469.044,136.678,469.044"></path> <path style="fill:#EF705D;" d="M442.142,173.993c-17.356,0-34.712-8.678-51.2-25.166c-3.471-3.471-3.471-8.678,0-12.149 c3.471-3.471,8.678-3.471,12.149,0c27.769,27.77,53.803,26.034,85.912-4.339c3.471-3.471,8.678-3.471,12.149,0 c3.471,3.471,3.471,8.678,0,12.149C481.193,164.447,461.234,173.993,442.142,173.993"></path> </g> <path style="fill:#E6E6E6;" d="M411.77,57.708c-19.092-19.092-51.2-19.092-71.159,0L0.434,469.044L411.77,128.868 C430.861,109.776,430.861,77.668,411.77,57.708"></path> <path style="fill:#CDCDCD;" d="M347.553,130.603c-2.603,0-4.339-0.868-6.075-2.603c-3.471-3.471-3.471-8.678,0-12.149l28.637-28.637 c3.471-3.471,8.678-3.471,12.149,0s3.471,8.678,0,12.149L353.627,128C351.892,129.736,350.156,130.603,347.553,130.603"></path> <path style="fill:#EF705D;" d="M262.508,158.373c-2.603,0-4.339-0.868-6.075-2.603l-21.695-20.827 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l49.464,49.464c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-49.464-49.464c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l20.827,20.827 c3.471,3.471,3.471,8.678,0,12.149C266.847,158.373,265.112,158.373,262.508,158.373"></path> </g></svg>
+      <svg height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 503.76 503.76" xml:space="preserve" fill="#000000" stroke="#000000" stroke-width="2.015024"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#EF705D;" d="M267.715,357.098c-13.885,0-28.637-5.207-39.919-16.488l-27.769-28.637 c-3.471-3.471-3.471-8.678,0-12.149c3.471-3.471,8.678-3.471,12.149,0l28.637,28.637c16.488,16.488,43.39,13.017,59.01,0 c7.81-7.81,11.281-18.224,11.281-28.637c0-11.281-4.339-21.695-12.149-29.505l-20.827-21.695c-3.471-3.471-3.471-8.678,0-12.149 s8.678-3.471,12.149,0l20.827,20.827c11.281,11.281,17.356,26.034,17.356,41.654s-6.075,30.373-17.356,41.654 C299.824,350.156,284.203,357.098,267.715,357.098"></path> <path style="fill:#EF705D;" d="M136.678,469.044c-2.603,0-4.339-0.868-6.075-2.603L16.922,353.627 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l35.58,35.58c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-35.58-35.58c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l113.681,113.681 c3.471,3.471,3.471,8.678,0,12.149C141.017,468.176,138.414,469.044,136.678,469.044"></path> <path style="fill:#EF705D;" d="M442.142,173.993c-17.356,0-34.712-8.678-51.2-25.166c-3.471-3.471-3.471-8.678,0-12.149 c3.471-3.471,8.678-3.471,12.149,0c27.769,27.77,53.803,26.034,85.912-4.339c3.471-3.471,8.678-3.471,12.149,0 c3.471,3.471,3.471,8.678,0,12.149C481.193,164.447,461.234,173.993,442.142,173.993"></path> </g> <path style="fill:#E6E6E6;" d="M411.77,57.708c-19.092-19.092-51.2-19.092-71.159,0L0.434,469.044L411.77,128.868 C430.861,109.776,430.861,77.668,411.77,57.708"></path> <path style="fill:#CDCDCD;" d="M347.553,130.603c-2.603,0-4.339-0.868-6.075-2.603c-3.471-3.471-3.471-8.678,0-12.149l28.637-28.637 c3.471-3.471,8.678-3.471,12.149,0s3.471,8.678,0,12.149L353.627,128C351.892,129.736,350.156,130.603,347.553,130.603"></path> <path style="fill:#EF705D;" d="M262.508,158.373c-2.603,0-4.339-0.868-6.075-2.603l-21.695-20.827 c-22.563-22.563-22.563-59.878,0-83.308c22.563-22.563,59.878-22.563,83.308,0l49.464,49.464c3.471,3.471,3.471,8.678,0,12.149 c-3.471,3.471-8.678,3.471-12.149,0l-49.464-49.464c-16.488-16.488-42.522-16.488-59.01,0s-16.488,42.522,0,59.01l20.827,20.827 c3.471,3.471,3.471,8.678,0,12.149C266.847,158.373,265.112,158.373,262.508,158.373"></path> </g></svg>
     </div>
     <div>
       <h3 class="mb-4 text-xl font-bold">
@@ -332,18 +332,15 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   </div>
 </div>
 <div class="mt-10 flex justify-center">
-  <a href="">
-    <button
-      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-full">
-      Events on eventbrite
-    </button>
-  </a>
-  <span class="mr-2"></span>
-    <a href="#" class="inline-flex justify-center items-center sm:mt-6 py-2 px-4 text-center bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">
-      All Events
-  <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
-  </a>
+  <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 sm:ms-4 text-center rounded-full bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent">
+           Eevents on Eventbrite
+        </a>
+        <span class="mr-2"></span>
+          <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 text-center bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">
+            All events
+        <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0       0 14 10">
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/></svg>
+        </a>
 </div>
 </section>
 </div>
@@ -362,11 +359,11 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 </div>
   
 <div class="max-w-2xl mx-auto flex author">
-  <img class="!mt-0 !mb-0 h-62 w-62 rounded-full ltr:mr-4 rtl:ml-4" width="160" height="160"
+  <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
     alt="" src="map.webp" />
   <div class="place-self-center">
-    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      3 days ago - "Hello" is a song recorded by English singer-songwriter Adele, released on 23 October 2015 by XL Recordings as the lead single from her third studio album, 25 (2015). Written by Adele and the album's producer, Greg Kurstin, "Hello" is a piano ballad with soul influences (including guitar and ...
+    <div class="text-neutral-800 dark:text-neutral-300">
+      3 days ago - "Hello" is a song recorded by English singer-songwriter Adele, released on 23 October 2015 by XL Recordings as the lead single from her third studio album, 25 (2015).
     </div>
   </div>
 </div>
@@ -593,8 +590,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         <p class="text-lg mb-10 lg:mb-14">
           Languages spoken and written:<br> English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
-        <a href="#" class="inline-flex justify-center items-center mb-10 py-3 px-5 sm:ms-4 text-center rounded-full text-neutral-50
-          bg-primary-600 dark:bg-primary-500">
+        <a href="#" class="inline-flex justify-center items-center mb-10 py-2 px-4 sm:ms-4 text-center bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">
           📨 Contact form
         </a><br>
         <!-- Github -->
