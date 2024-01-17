@@ -28,7 +28,7 @@ description: ""
         </div>
         <div class="mt-8">
            {{< figure
-           src="banner.png"
+           src="123.webp"
            alt="Abstract purple artwork"
            >}}
         </div>
@@ -360,7 +360,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
   <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
     alt="" src="map.webp" />
   <div class="place-self-center">
-    <div class="text-neutral-800 dark:text-neutral-300">
+    <div class="text-sm text-neutral-500 dark:text-neutral-300">
       3 days ago - "Hello" is a song recorded by English singer-songwriter Adele, released on 23 October 2015 by XL Recordings as the lead single from her third studio album, 25 (2015).
     </div>
   </div>
@@ -602,7 +602,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
             <!-- Grid -->
               <div>
                 <label for="hs-firstname-contacts-1 name" class="sr-only form-label">Name</label>
-                <input type="text" name="name" id="name" class="py-3 px-4 block w-full border-gray-200 rounded-lg text-sm focus:border-primary-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-primary-500 dark:focus:ring-gray-600 form-input" placeholder="Name" type="text">
+                <input type="text" name="name" id="name" class="py-3 px-4 block w-full border-gray-200 rounded-lg text-sm focus:border-primary-500 focus:ring-primary-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-neutral dark:border-neutral-700 dark:text-primary-500 dark:focus:ring-neutral-600 form-input" placeholder="Name" type="text">
               </div>
             <div>
               <label for="hs-email-contacts-1 email" class="sr-only form-label">Email</label>
@@ -627,59 +627,59 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
       <!-- End Card -->
       <div class="text-left">
         <!-- Icon Block -->
-         <div class="flex">
-       <div class="flex flex-col mr-4">
-         💯
-       </div>
-       <div class="pb-8">
-         <p class="font-bold">Step 2</p>
+         <div class="flex pb-8">
+    <div class="mr-4">
+      <svg height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#5D9BEB;" d="M0,256.006C0,397.402,114.606,512.004,255.996,512C397.394,512.004,512,397.402,512,256.006 C512.009,114.61,397.394,0,255.996,0C114.606,0,0,114.614,0,256.006z"></path> <path style="fill:#4988DB;" d="M505.249,314.319c-0.272-0.272-205.68-205.733-206.24-206.241c-4.093-4.525-9.948-7.424-16.517-7.424 h-52.985c-12.326,0-22.349,10.023-22.349,22.349v46.007c0,6.567,2.899,12.425,7.424,16.515c0.507,0.56,34.082,34.198,34.439,34.544 v13.154H164.3c-21.771,0-40.869,17.532-40.869,37.523v46.203h-12.538c-12.326,0-22.349,10.023-22.349,22.349v39.031 c0,6.567,2.899,12.425,7.424,16.515c0.507,0.561,77.037,73.373,111.47,111.469c0.398,0.441,0.821,0.846,1.25,1.25 c15.339,2.867,31.137,4.435,47.308,4.435C377.324,512.002,478.85,427.599,505.249,314.319z"></path> <path style="fill:#F6F6F6;" d="M401.106,316.951h-12.538v-46.205c0-19.991-19.099-37.523-40.869-37.523h-84.723V191.36h19.515 c12.326,0,22.349-10.023,22.349-22.349v-46.006c0-12.326-10.023-22.349-22.349-22.349h-52.985 c-12.326,0-22.349,10.023-22.349,22.349v46.006c0,12.326,10.023,22.349,22.349,22.349h19.515v41.863h-84.723 c-21.77,0-40.869,17.532-40.869,37.523v46.205h-12.538c-12.326,0-22.349,10.023-22.349,22.349v39.029 c0,12.326,10.023,22.349,22.349,22.349h39.029c12.326,0,22.349-10.023,22.349-22.349V339.3c0-12.326-10.023-22.349-22.349-22.349 h-12.538v-46.205c0-13.491,14.207-23.569,26.914-23.569h84.723v69.773h-12.538c-12.326,0-22.349,10.023-22.349,22.349v39.029 c0,12.326,10.023,22.349,22.349,22.349h39.029c12.326,0,22.349-10.023,22.349-22.349v-39.029c0-12.326-10.023-22.349-22.349-22.349 h-12.538v-69.773h84.723c12.707,0,26.914,10.078,26.914,23.569v46.205h-12.538c-12.326,0-22.349,10.023-22.349,22.349v39.029 c0,12.326,10.023,22.349,22.349,22.349h39.029c12.326,0,22.349-10.023,22.349-22.349V339.3 C423.456,326.974,413.433,316.951,401.106,316.951z M221.114,169.01v-46.006c0-4.626,3.769-8.395,8.395-8.395h52.985 c4.626,0,8.395,3.769,8.395,8.395v46.006c0,4.626-3.769,8.395-8.395,8.395h-52.985C224.881,177.405,221.114,173.636,221.114,169.01z M158.318,339.3v39.029c0,4.626-3.769,8.395-8.395,8.395h-39.029c-4.626,0-8.395-3.769-8.395-8.395V339.3 c0-4.626,3.769-8.395,8.395-8.395h39.029C154.549,330.906,158.318,334.674,158.318,339.3z M283.909,339.3v39.029 c0,4.626-3.769,8.395-8.395,8.395h-39.029c-4.626,0-8.395-3.769-8.395-8.395V339.3c0-4.626,3.769-8.395,8.395-8.395h39.029 C280.141,330.906,283.909,334.674,283.909,339.3z M409.501,378.33c0,4.626-3.769,8.395-8.395,8.395h-39.029 c-4.626,0-8.395-3.769-8.395-8.395V339.3c0-4.626,3.769-8.395,8.395-8.395h39.029c4.626,0,8.395,3.769,8.395,8.395V378.33z"></path> </g></svg>
+    </div>
+    <div>
+      <p class="font-bold">Sitemap</p>
          <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
            Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
          </p>
          <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
               example@site.com
             </a>
-       </div>
-     </div>
+    </div>
+  </div>
+        <div class="flex pb-8">
+    <div class="mr-4">
+      <svg height="32px" width="32px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 378.22 378.22" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#88C9B3;" d="M378.22,142.485v126.25c0,14.05-11.39,25.44-25.44,25.44h-24.37v40.88l-39.35-40.88H131.15 c-14.05,0-25.44-11.39-25.44-25.44v-48.44v-77.81c0-14.05,11.39-25.44,25.44-25.44H272.5h80.28 C366.83,117.045,378.22,128.435,378.22,142.485z"></path> <path style="fill:#d01b1b;" d="M272.5,68.605v48.44H131.15c-14.05,0-25.44,11.39-25.44,25.44v77.81H89.15l-2.19,2.28l-37.16,38.6 v-40.88H25.43c-14.05,0-25.43-11.39-25.43-25.44V68.605c0-14.05,11.38-25.44,25.43-25.44h221.64 C261.11,43.165,272.5,54.555,272.5,68.605z"></path> <path style="fill:#990000;" d="M272.5,98.295v18.75H131.15c-14.05,0-25.44,11.39-25.44,25.44v77.81H89.15l-2.19,2.28v-98.84 c0-14.05,11.39-25.44,25.44-25.44H272.5z"></path> </g></svg>
+    </div>
+    <div>
+      <p class="font-bold">FAQ</p>
+         <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
+           Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+         <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+              example@site.com
+            </a>
+    </div>
+  </div>
      <div class="flex">
-       <div class="flex flex-col mr-4">
-         💯
-       </div>
-       <div class="pb-8">
-         <p class="font-bold">Step 2</p>
+    <div class="mr-4">
+      <svg width="32px" height="32px" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <rect width="48" height="48" fill="white" fill-opacity="0.01"></rect> <path d="M21 38C30.3888 38 38 30.3888 38 21C38 11.6112 30.3888 4 21 4C11.6112 4 4 11.6112 4 21C4 30.3888 11.6112 38 21 38Z" fill="#2F88FF" stroke="#000000" stroke-width="4" stroke-linejoin="round"></path> <path d="M26.6568 14.3431C25.2091 12.8954 23.2091 12 21 12C18.7909 12 16.7909 12.8954 15.3431 14.3431" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M33.2218 33.2218L41.7071 41.7071" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
+    </div>
+    <div>
+      <p class="font-bold">Search</p>
          <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
            Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
          </p>
          <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
               example@site.com
             </a>
-       </div>
-     </div>
-     <div class="flex">
-       <div class="flex flex-col mr-4">
-         💯
-       </div>
-       <div class="pb-8">
-         <p class="font-bold">Step 2</p>
-         <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
-           Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
-         </p>
-         <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
-              example@site.com
-            </a>
-       </div>
-     </div>
+    </div>
+  </div>
       </div>
     </div>
   </div>
 </div>
 <!-- End Contact Us -->
         <!-- Github -->
-        <a target="_blank" class="text-neutral-700 hover:text-neutral dark:text-neutral-300" href="" title="" aria-label="">{{< icon "github" >}}</a>
+        <a target="_blank" class="text-4xl mr-2 text-neutral-700 dark:text-neutral-300" href="" title="" aria-label="">{{< icon "github" >}}</a>
         <!-- Github -->
-        <a target="_blank" class="rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label="">{{< icon "github" >}}</a>
+        <a target="_blank" class="text-4xl mr-2 text-neutral-700 dark:text-neutral-300" href="" title="" aria-label="">{{< icon "twitter" >}}</a>
         <!-- Github -->
-        <a target="_blank" class="rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label="">{{< icon "github" >}}</a>
+        <a target="_blank" class="text-4xl mr-2 text-neutral-700 dark:text-neutral-300" href="" title="" aria-label="">{{< icon "mastodon" >}}</a>
     </div>
   </div>
 </section>
@@ -1133,7 +1133,6 @@ data: {
 <!-- Testimonials People -->
 <div class="overflow-hidden bg-slate-800">
   <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-    <!-- Title -->
 <div class="mx-auto text-center mb-10 lg:mb-14">
 <p class="text-base text-primary-600 dark:text-primary-200 font-bold tracking-wide uppercase mb-3">Testimonials people</p>
 <h2 class="mb-4 text-4xl font-extrabold">
@@ -1143,10 +1142,7 @@ data: {
   Whatever your status, our offers evolve according to your needs.
 </p>
 </div>
-    <!-- End Title -->
-    <!-- Grid -->
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      <!-- Card -->
       <div class="flex h-auto">
         <div class="flex flex-col rounded-xl">
           <div class="flex-auto p-4 md:p-6">
@@ -1171,8 +1167,6 @@ data: {
           </div>
         </div>
       </div>
-      <!-- End Card -->
-      <!-- Card -->
       <div class="flex h-auto">
         <div class="flex flex-col rounded-xl shadow-xl">
           <div class="flex-auto p-4 md:p-6">
@@ -1197,8 +1191,6 @@ data: {
           </div>
         </div>
       </div>
-      <!-- End Card -->
-      <!-- Card -->
       <div class="flex h-auto">
         <div class="flex flex-col rounded-xl shadow-xl">
           <div class="flex-auto p-4 md:p-6">
@@ -1253,9 +1245,7 @@ data: {
     <!-- End Grid -->
   </div>
 </div>
-<!-- End Testimonials People -->
-
-      
+<!-- End Testimonials People -->      
 {{< /rawhtml >}}
 
 
