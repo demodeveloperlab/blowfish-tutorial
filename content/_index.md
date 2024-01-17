@@ -86,7 +86,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         <a href="" class="text-primary-500" title="Go to W3Schools HTML section" hover:bg-primary-600>Awards good deed</a>
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -99,7 +99,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
           Liste greta deed
         </h3>
         <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
         </p>
       </div>
     </div>
@@ -112,7 +112,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         I am good camper
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -125,7 +125,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         Really. Ok that's fine
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -138,7 +138,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         demo demo demo
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -151,7 +151,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         More connected I become
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -300,7 +300,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Romy</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
@@ -309,7 +309,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Romy</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
@@ -318,7 +318,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Romy</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl text-center">
@@ -327,7 +327,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     </div>
     <h3 class="mb-4 mt-4 text-xl font-bold">Shjfsdractice</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
 </div>
@@ -393,42 +393,42 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-51.2 -51.2 614.39 614.39" xml:space="preserve" fill="#000000" transform="rotate(0)matrix(1, 0, 0, 1, 0, 0)"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle style="fill:#E84F4F;" cx="255.997" cy="255.997" r="255.997"></circle> <path style="fill:#C94545;" d="M283.902,510.581L154.168,388.729v-265.3h9.458l55.172,59.744v-59.744h9.458l55.33,59.113v-59.113 h9.301l55.488,59.113l-0.158-59.113h9.616l153.695,149.596c-8.197,124.216-104.827,224.158-227.468,237.556H283.902z"></path> <path style="fill:#FFD630;" d="M163.783,123.429v265.3h-9.458v-265.3H163.783z"></path> <path style="fill:#EBECEC;" d="M146.128,303.291h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C135.251,308.178,140.138,303.291,146.128,303.291z"></path> <path style="fill:#FFD630;" d="M228.414,123.429v265.3h-9.458v-265.3H228.414z"></path> <path style="fill:#EBECEC;" d="M210.759,233.616h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C199.882,238.503,204.768,233.616,210.759,233.616z"></path> <path style="fill:#FFD630;" d="M293.044,123.429v265.3h-9.458v-265.3H293.044z"></path> <path style="fill:#EBECEC;" d="M275.547,300.611h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C264.67,305.498,269.557,300.611,275.547,300.611z"></path> <path style="fill:#FFD630;" d="M357.832,123.429v265.3h-9.458v-265.3H357.832z"></path> <path style="fill:#EBECEC;" d="M340.177,182.384h25.852c5.99,0,10.877,4.887,10.877,10.877v18.601 c0,5.99-4.887,10.877-10.877,10.877h-25.852c-5.99,0-10.877-4.887-10.877-10.877v-18.601 C329.301,187.271,334.188,182.384,340.177,182.384z"></path> <g> <path style="fill:#727271;" d="M152.276,312.591h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C146.601,313.537,149.123,312.591,152.276,312.591z M152.276,327.251h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C146.601,328.197,149.123,327.251,152.276,327.251z"></path> <path style="fill:#727271;" d="M216.906,243.074h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C211.232,244.02,213.753,243.074,216.906,243.074z M216.906,257.734h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C211.232,258.68,213.753,257.734,216.906,257.734z"></path> <path style="fill:#727271;" d="M281.694,309.912h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C276.02,310.857,278.541,309.912,281.694,309.912z M281.694,324.572h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C276.02,325.517,278.541,324.572,281.694,324.572z"></path> <path style="fill:#727271;" d="M346.325,191.842h13.556c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891 h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153C340.651,192.789,343.172,191.842,346.325,191.842z M346.325,206.502h13.556 c3.153,0,5.674,0.788,5.674,1.891v3.153c0,0.946-2.523,1.891-5.674,1.891h-13.556c-3.153,0-5.674-0.788-5.674-1.891v-3.153 C340.651,207.449,343.172,206.502,346.325,206.502z"></path> </g> </g></svg>
     <h3 class="mb-4 mt-4 text-xl font-bold">Sjsdfkjsdhsd</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl">
       <svg width="64px" height="64px" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M111.42 113.34H16.58a4.88 4.88 0 0 1-4.88-4.88V42.03c0-7.27 5.65-13.16 12.62-13.16h79.37c6.97 0 12.62 5.89 12.62 13.16V108.46c0 2.7-2.19 4.88-4.89 4.88z" fill="#fafafa" stroke="#bdbdbd" stroke-width="3" stroke-miterlimit="10"> </path> <path d="M112.11 4h-4.8c-1 0-1.81.81-1.81 1.81V9.9c0 .67.38 1.25.95 1.6c2.01 1.2 3.24 3.57 2.71 6.17c-.45 2.2-2.21 3.98-4.41 4.44a5.788 5.788 0 0 1-7.03-5.65c0-2.12 1.14-3.97 2.85-4.97c.57-.34.94-.92.94-1.58v-4.1c0-1-.81-1.81-1.81-1.81H28.27c-.98 0-1.77.79-1.77 1.77v4.16c0 .65.37 1.22.93 1.55a5.783 5.783 0 0 1 2.73 6.18c-.45 2.2-2.21 3.98-4.41 4.44a5.788 5.788 0 0 1-7.03-5.65c0-2.13 1.16-3.98 2.87-4.99c.55-.32.91-.9.91-1.54V5.77c0-.98-.79-1.77-1.77-1.77h-4.85a5.75 5.75 0 0 0-5.75 5.75v37.52H117.7l.16-37.49A5.745 5.745 0 0 0 112.11 4z" fill="#f44336"> </path> <g fill="#ffffff"> <path d="M45.09 15.46h4.12V29.3c0 1.27-.28 2.4-.84 3.37s-1.36 1.73-2.38 2.26c-1.03.53-2.18.8-3.47.8c-2.11 0-3.76-.54-4.94-1.61c-1.18-1.07-1.77-2.6-1.77-4.56h4.15c0 .98.21 1.7.62 2.17c.41.47 1.06.7 1.95.7c.79 0 1.41-.27 1.88-.81s.7-1.31.7-2.31V15.46z"> </path> <path d="M61.37 33.94c-.98 1.19-2.33 1.78-4.06 1.78c-1.59 0-2.81-.46-3.64-1.37c-.84-.91-1.27-2.26-1.28-4.02V20.6h3.97v9.61c0 1.55.7 2.32 2.11 2.32c1.35 0 2.27-.47 2.77-1.4V20.6h3.98v14.85h-3.73l-.12-1.51z"> </path> <path d="M72.39 35.45h-3.98V14.37h3.98v21.08z"> </path> <path d="M81.2 29.83l2.75-9.24h4.26l-5.97 17.16l-.33.78c-.89 1.94-2.35 2.91-4.39 2.91c-.58 0-1.16-.09-1.76-.26v-3.01l.6.01c.75 0 1.31-.11 1.68-.34c.37-.23.66-.61.87-1.14l.47-1.22l-5.2-14.89h4.27l2.75 9.24z"> </path> </g> <path d="M53.22 102.31h-8.57V69.26l-10.24 3.17v-6.97l17.89-6.41h.92v43.26z" fill="#000000"> </path> <path d="M93.59 63.9l-16.7 38.41h-9.05l16.73-36.28H63.09v-6.91h30.5v4.78z" fill="#000000"> </path> </g></svg>
       <h3 class="mb-4 mt-4 text-xl font-bold">fuhusrhfrfirei</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl">
     <svg width="64px" height="64px" viewBox="0 0 14 14" role="img" focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill="#90caf9" d="M5.1230769 9.67458367h-.73846154V8.44381443H5.6153846l.12307692.46153847c.0923077.4-.21538461.76923077-.61538462.76923077zm6.03076928.92307693S7.52307692 8.44381443 5.6153846 8.44381443V4.13612209c1.7846154 0 5.53846158-2.15384617 5.53846158-2.15384617v8.61538468z"></path> <g fill="#283593" transform="translate(-.23076929 -.47926256) scale(.3077)"> <circle cx="9" cy="22" r="5"></circle> <path d="M40 19h-3v6h3c1.7 0 3-1.3 3-3s-1.3-3-3-3zM18.6 41.2c-.9.6-2.5 1.2-4.6 1.4-.6.1-1.2-.3-1.4-1L8.2 27.9S17 21.7 17 29c0 5.5 1.5 8.4 2.2 9.5.5.7.5 1.6 0 2.3-.2.2-.4.3-.6.4z"></path> </g> <path fill="#3f51b5" d="M2.5384615 8.44381443h3.0769231V4.13612209H2.5384615c-.33846154 0-.61538462.27692308-.61538462.61538462v3.0769231c0 .33846154.27692308.61538462.61538462.61538462z"></path> <path fill="#42a5f5" d="M11.46153849 11.21304522c-.33846154 0-.61538462-.27692308-.61538462-.61538462V1.98227592c0-.33846154.27692308-.61538462.61538462-.61538462.33846154 0 .61538462.27692308.61538462.61538462v8.61538468c0 .33846154-.27692308.61538462-.61538462.61538462z"></path> </g></svg>
     <h3 class="mb-4 mt-4 text-xl font-bold">eiohfwuhfrwiu</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl">
     <svg height="64px" width="64px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#74D6D0;" d="M256,452.121c-65.547,0-127.48-10.637-174.393-29.951C28.982,400.503,0,369.467,0,334.78 s28.982-65.723,81.607-87.389C128.52,228.076,190.454,217.438,256,217.438s127.482,10.637,174.393,29.952 C483.018,269.056,512,300.093,512,334.78s-28.982,65.723-81.607,87.391C383.482,441.483,321.546,452.121,256,452.121z M256,258.037 c-60.367,0-116.812,9.551-158.936,26.895c-35.357,14.556-56.466,33.191-56.466,49.848s21.108,35.292,56.466,49.848 c42.124,17.344,98.569,26.895,158.936,26.895c60.368,0,116.814-9.551,158.937-26.895c35.356-14.556,56.464-33.192,56.464-49.848 c0-16.658-21.108-35.292-56.464-49.848C372.812,267.588,316.368,258.037,256,258.037z"></path> <path style="fill:#74D6D0;" d="M256,386.257c-40.141,0-78.115-3.971-106.924-11.179c-14.251-3.566-57.621-14.418-57.621-45.216 c0-30.795,43.37-41.649,57.621-45.214c28.81-7.209,66.783-11.179,106.924-11.179c40.142,0,78.117,3.971,106.925,11.179 c14.251,3.566,57.62,14.418,57.62,45.214s-43.369,41.649-57.62,45.216C334.115,382.287,296.142,386.257,256,386.257z M140.284,329.863c17.978,7.216,57.964,15.795,115.716,15.795s97.739-8.58,115.718-15.795 c-17.978-7.216-57.965-15.796-115.718-15.796S158.262,322.648,140.284,329.863z"></path> </g> <g> <path style="fill:#CCF7F5;" d="M430.393,247.39C383.482,228.076,321.546,217.438,256,217.438v40.598 c60.368,0,116.812,9.551,158.937,26.895c35.356,14.557,56.464,33.192,56.464,49.848c0,16.658-21.108,35.292-56.464,49.848 c-42.124,17.344-98.569,26.895-158.937,26.895v40.598c65.546,0,127.482-10.637,174.393-29.951 C483.018,400.503,512,369.469,512,334.78S483.018,269.056,430.393,247.39z"></path> <path style="fill:#CCF7F5;" d="M362.925,284.649C334.117,277.44,296.142,273.47,256,273.47v40.598 c57.753,0,97.739,8.58,115.718,15.795c-17.978,7.216-57.965,15.796-115.718,15.796v40.598c40.142,0,78.117-3.97,106.925-11.179 c14.251-3.566,57.62-14.418,57.62-45.216C420.545,299.067,377.177,288.215,362.925,284.649z"></path> </g> <path style="fill:#74D6D0;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151c7.252,0,13.954,3.869,17.579,10.15 l63.486,109.966c11.121,16.284,16.995,35.308,16.995,55.081C353.819,289.013,309.938,332.896,256,332.896z"></path> <path style="fill:#CCF7F5;" d="M256,332.896c-53.938,0-97.819-43.883-97.819-97.82c0-15.877,3.889-31.569,11.267-45.569 c0.361-0.907,0.789-1.793,1.286-2.654L238.18,70.03c3.627-6.282,10.327-10.151,17.579-10.151L256,332.896z"></path> </g></svg>     
     <h3 class="mb-4 mt-4 text-xl font-bold">No way we can do this</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl">
     <svg height="64px" width="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#88CC2A;" d="M329.111,414.169l-19.163-7.907H202.055l-19.163,7.907c-8.598,3.354-12.837,13.033-9.489,21.625 c11.804,30.266,66.544,49.554,77.392,53.115c3.342,1.092,6.971,1.125,10.413,0c10.848-3.56,65.588-22.848,77.392-53.115 C341.948,427.202,337.708,417.522,329.111,414.169z"></path> <path style="fill:#7FB335;" d="M329.111,414.169l-19.163-7.907h-53.946v83.473c1.743,0,3.497-0.267,5.207-0.826 c10.848-3.56,65.588-22.848,77.392-53.115C341.948,427.202,337.708,417.522,329.111,414.169z"></path> <path style="fill:#FF8095;" d="M107.718,325.484C49.805,336.256,7.087,375.696,5.294,377.37C1.913,380.527,0,384.941,0,389.565 c0,4.619,1.913,9.038,5.294,12.196c2.381,2.228,59.207,54.587,131.055,54.587s128.674-52.359,131.055-54.587L107.718,325.484z"></path> <path style="fill:#FF6680;" d="M506.71,377.37c-1.793-1.674-44.511-41.114-102.424-51.886L244.6,401.761 c2.381,2.228,59.207,54.587,131.055,54.587s128.674-52.359,131.055-54.587C513.763,395.173,513.763,383.958,506.71,377.37z"></path> <path style="fill:#FF8095;" d="M466.188,205.167c-0.489-8.495-7.283-15.267-15.772-15.729c-3.218-0.136-79.838-3.81-137.566,35.593 l-57.62,186.647c0.62,0.032,3.348,0.163,7.728,0.163c24.5,0,100.708-4.087,149.87-52.114 C471.003,302.919,466.405,209.135,466.188,205.167z"></path> <path style="fill:#FF99AA;" d="M199.154,225.032c-57.728-39.408-134.337-35.75-137.566-35.593 c-8.489,0.462-15.282,7.234-15.772,15.729c-0.217,3.967-4.815,97.75,53.359,154.56c49.175,48.027,125.381,52.114,149.87,52.114 c4.381,0,7.109-0.13,7.728-0.163L199.154,225.032z"></path> <circle style="fill:#FFC033;" cx="161.392" cy="105.74" r="16.696"></circle> <circle style="fill:#F9A926;" cx="356.176" cy="105.74" r="16.696"></circle> <circle style="fill:#FFC033;" cx="256.002" cy="38.954" r="16.696"></circle> <path style="fill:#F9A926;" d="M272.697,38.954c0-9.221-7.475-16.696-16.696-16.696V55.65 C265.222,55.65,272.697,48.176,272.697,38.954z"></path> <path style="fill:#FFB3BF;" d="M267.021,115.421c-3.228-2.783-7.124-4.118-11.019-4.118c-3.896,0-7.791,1.336-11.019,4.118 c-3.005,2.671-74.018,65.67-74.018,146.144s71.013,143.472,74.018,146.144c3.117,2.783,7.124,4.118,11.019,4.118 c3.896,0,7.903-1.336,11.019-4.118c3.005-2.671,74.018-65.67,74.018-146.144S270.026,118.092,267.021,115.421z"></path> <path style="fill:#FF99AA;" d="M341.039,261.565c0,80.474-71.013,143.472-74.018,146.144c-3.117,2.783-7.124,4.118-11.019,4.118 V111.303c3.896,0,7.791,1.336,11.019,4.118C270.026,118.092,341.039,181.091,341.039,261.565z"></path> </g></svg>      
     <h3 class="mb-4 mt-4 text-xl font-bold">Don't get caught</h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
   <div class="md:mb-0 rounded-xl border py-6 px-6 shadow-xl">
     <svg width="64px" height="64px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" width="32px" height="32px" fill="#e01a1a" stroke="#e01a1a"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <path style="fill:#E21B1B;" d="M281.04,129.624v-15.008c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176s-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15.008 c-47.352,2.216-71.432,34.232-71.432,55.752v17.672h192.944v-17.672C352.472,163.856,328.392,131.832,281.04,129.624z"></path> <path style="fill:#E21B1B;" d="M121.512,419v-14.976c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176c-24.424,13.832-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15 C24.08,421.216,0,453.232,0,474.752v17.672h192.944v-17.672C192.944,453.232,168.864,421.216,121.512,419z"></path> <path style="fill:#E21B1B;" d="M440.568,419v-14.976c24.424-13.832,33.008-44.84,19.176-69.256 c-13.832-24.424-44.84-33.008-69.256-19.176s-33.008,44.84-19.176,69.256c4.536,8.016,11.168,14.64,19.176,19.176v15 c-47.352,2.216-71.432,34.232-71.432,55.752v17.648H512v-17.672C512,453.232,487.92,421.216,440.568,419z"></path> </g></svg>
     <h3 class="mb-4 mt-4 text-xl font-bold">Yummi yumii yum </h3>
     <p class="text-neutral-500 dark:text-neutral-300">
-      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+      A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </p>
   </div>
 </div>
@@ -497,7 +497,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         What exactly is
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </div>
   </div>
     <div class="flex">
@@ -510,7 +510,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
           I struggle or not
         </h3>
         <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+          A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
         </div>
     </div>
   <div class="flex">
@@ -523,7 +523,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         thoughts?      
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </div>
   </div>
   <div class="flex">
@@ -536,7 +536,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         Are we there yet?
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
     </div>
   </div>
   <div class="flex">
@@ -549,7 +549,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         Meaning is abstract
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -563,7 +563,7 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
         Doesn't do that and this
       </h3>
       <p class="mb-1 text-neutral-500 dark:text-neutral-300">
-        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules Morse, as big as a horse and Mrs Falani were up to no good with a bunch of crook pikelets.
+        A slice of heaven. O for awesome, this chocka full cuzzie is as rip-of as a cracker.
       </p>
     </div>
   </div>
@@ -675,54 +675,11 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 </div>
 <!-- End Contact Us -->
         <!-- Github -->
-        <a target="_blank" class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label=""></a>
-<button
-  type="button"
-  data-te-ripple-init
-  data-te-ripple-color="light"
-  class="mr-2 inline-block shadow-xl">
-<svg width="32px" height="32px" viewBox="0 -0.5 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <title>Github-color</title> <desc>Created with Sketch.</desc> <defs> </defs> <g id="Icons" stroke-width="0.00048000000000000007" fill="none" fill-rule="evenodd"> <g id="Color-" transform="translate(-700.000000, -560.000000)" fill="#3E75C3"> <path d="M723.9985,560 C710.746,560 700,570.787092 700,584.096644 C700,594.740671 706.876,603.77183 716.4145,606.958412 C717.6145,607.179786 718.0525,606.435849 718.0525,605.797328 C718.0525,605.225068 718.0315,603.710086 718.0195,601.699648 C711.343,603.155898 709.9345,598.469394 709.9345,598.469394 C708.844,595.686405 707.2705,594.94548 707.2705,594.94548 C705.091,593.450075 707.4355,593.480194 707.4355,593.480194 C709.843,593.650366 711.1105,595.963499 711.1105,595.963499 C713.2525,599.645538 716.728,598.58234 718.096,597.964902 C718.3135,596.407754 718.9345,595.346062 719.62,594.743683 C714.2905,594.135281 708.688,592.069123 708.688,582.836167 C708.688,580.205279 709.6225,578.054788 711.1585,576.369634 C710.911,575.759726 710.0875,573.311058 711.3925,569.993458 C711.3925,569.993458 713.4085,569.345902 717.9925,572.46321 C719.908,571.928599 721.96,571.662047 724.0015,571.651505 C726.04,571.662047 728.0935,571.928599 730.0105,572.46321 C734.5915,569.345902 736.603,569.993458 736.603,569.993458 C737.9125,573.311058 737.089,575.759726 736.8415,576.369634 C738.3805,578.054788 739.309,580.205279 739.309,582.836167 C739.309,592.091712 733.6975,594.129257 728.3515,594.725612 C729.2125,595.469549 729.9805,596.939353 729.9805,599.18773 C729.9805,602.408949 729.9505,605.006706 729.9505,605.797328 C729.9505,606.441873 730.3825,607.191834 731.6005,606.9554 C741.13,603.762794 748,594.737659 748,584.096644 C748,570.787092 737.254,560 723.9985,560" id="Github"> </path> </g> </g> </g></svg>
-</button>
-<!-- Telegram -->
-<button
-  type="button"
-  data-te-ripple-init
-  data-te-ripple-color="light"
-  class="mr-2 inline-block">
-  <svg xmlns="http://www.w3.org/2000/svg" aria-label="Telegram" role="img" viewBox="0 0 512 512" width="32px" height="32px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#37aee2"></rect><path fill="#c8daea" d="M199 404c-11 0-10-4-13-14l-32-105 245-144"></path><path fill="#a9c9dd" d="M199 404c7 0 11-4 16-8l45-43-56-34"></path><path fill="#f6fbfe" d="M204 319l135 99c14 9 26 4 30-14l55-258c5-22-9-32-24-25L79 245c-21 8-21 21-4 26l83 26 190-121c9-5 17-3 11 4"></path></g></svg>
-</button>
-<!-- Archive.org -->
-<button
-  type="button"
-  data-te-ripple-init
-  data-te-ripple-color="light"
-  class="mr-2 inline-block">
- <svg xmlns="http://www.w3.org/2000/svg" aria-label="Internet Archive" role="img" viewBox="0 0 512.00 512.00" width="32px" height="32px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="0" y="0" width="512.00" height="512.00" rx="0" fill="#ffffff" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#ffffff"></rect><path d="m81 419h350v18h-350zm14-34h323v25h-323zm-2-284h321v35h-321zm319-10 10-11-169-39-168 39 10 11h158zm-273 154-1-51-3-47c0-2 0-2-2-2a67 67 0 0 0 -28 0c-1 0-2 0-2 2l-2 47a2223 2223 0 0 0 0 127l2 43 1 8 15 3c6-1 11-1 16-3l1-8 2-43a1616 1616 0 0 0 1-76zm88 0-2-51-2-47c0-2-1-2-2-2a67 67 0 0 0 -28 0c-2 0-2 0-2 2l-3 47a2223 2223 0 0 0 0 127l2 43 1 8c5 2 11 2 16 3l16-3v-8l2-43a1620 1620 0 0 0 2-76zm101 0-1-51-3-47c0-2 0-2-2-2a67 67 0 0 0 -28 0c-1 0-2 0-2 2l-2 47a2223 2223 0 0 0 0 127l2 43 1 8 15 3c5-1 11-1 16-3l1-8 2-43a1624 1624 0 0 0 1-76zm85 0-1-51-2-47c0-2-1-2-2-2a67 67 0 0 0 -29 0l-1 2-3 47a2227 2227 0 0 0 0 127l2 43 1 8c5 2 10 2 16 3l15-3 1-8 2-43a1620 1620 0 0 0 1-76z"></path></g></svg>
-</button>
-<!-- Email -->
-<button
-  type="button"
-  data-te-ripple-init
-  data-te-ripple-color="light"
-  class="mr-2 inline-block">
- <svg height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path style="fill:#FA6E51;" d="M512,256.006C512,397.402,397.394,512.004,256.004,512C114.606,512.004,0,397.402,0,256.006 C-0.007,114.61,114.606,0,256.004,0C397.394,0,512,114.614,512,256.006z"></path> <path style="fill:#E8573F;" d="M512,256.005c0-13.015-0.987-25.798-2.861-38.291c-0.14-0.138-0.272-0.282-0.417-0.417 c-0.367-0.394-0.742-0.769-1.136-1.136c-0.368-0.395-87.19-87.217-87.585-87.585c-4.134-4.437-9.981-7.258-16.511-7.258H108.51 c-12.481,0-22.633,10.148-22.633,22.629v224.103c0,6.529,2.82,12.373,7.258,16.507c0.368,0.395,0.743,0.771,1.139,1.139 c0.367,0.395,122.45,122.476,122.845,122.843c0.194,0.208,0.399,0.4,0.599,0.599c12.492,1.873,25.274,2.86,38.288,2.86 C397.394,512.004,512,397.401,512,256.005z"></path> <path style="fill:#F4F6F9;" d="M403.49,121.319H108.51c-12.481,0-22.633,10.148-22.633,22.629v224.104 c0,12.481,10.151,22.629,22.633,22.629h294.981c12.481,0,22.633-10.148,22.633-22.629V143.949 C426.123,131.468,415.971,121.319,403.49,121.319z M100.053,145.605l112.945,114.859L100.053,366.766V145.605z M265.76,274.061 c-5.466,5.302-14.038,5.302-19.399,0.117L109.995,135.497h292.011L265.76,274.061z M222.945,270.579l13.429,13.658 c5.486,5.316,12.523,7.982,19.58,7.982c7.095,0,14.211-2.692,19.791-8.099l10.074-10.244l115.459,102.63H110.4L222.945,270.579z M295.771,263.754l116.176-118.148v221.415L295.771,263.754z"></path> </g></svg>
-</button>
-<!-- Eventbrite -->
-<button
-  type="button"
-  data-te-ripple-init
-  data-te-ripple-color="light"
-  class="mr-2 inline-block">
-  <svg width="32px" height="32px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <circle fill="#F05537" cx="128" cy="128" r="128"> </circle> <path d="M117.475323,82.7290398 C136.772428,78.4407943 156.069532,86.3025777 166.790146,101.311437 L81.5017079,120.608542 C84.3605382,102.26438 98.1782181,87.0172853 117.475323,82.7290398 Z M167.266618,153.48509 C160.596014,163.252761 150.351872,170.161601 138.678314,172.782195 C119.38121,177.070441 99.8458692,169.208657 89.1252554,153.961562 L174.651929,134.664457 L188.469609,131.567391 L215.152026,125.611495 C214.91379,119.893834 214.199082,114.176173 213.007903,108.696749 C202.287289,62.7172275 155.354825,33.8906884 108.42236,44.6113021 C61.4898956,55.3319159 32.1868848,101.073201 43.1457344,147.290958 C54.1045839,193.508715 100.798813,222.097018 147.731277,211.376404 C175.366637,205.182272 196.807864,186.599875 207.766714,163.014525 L167.266618,153.48509 L167.266618,153.48509 Z" fill="#FFFFFF" fill-rule="nonzero"> </path> </g> </g></svg>
-</button>
-<!-- RSS -->
-<button
-  type="button"
-  data-te-ripple-init
-  data-te-ripple-color="light"
-  class="inline-block">
-  <svg xmlns="http://www.w3.org/2000/svg" aria-label="RSS" role="img" viewBox="0 0 512 512" width="32px" height="32px" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><rect width="512" height="512" rx="15%" fill="#f80"></rect><circle cx="145" cy="367" r="35" fill="#ffffff"></circle><path fill="none" stroke="#ffffff" stroke-width="60" d="M109 241c89 0 162 73 162 162m114 0c0-152-124-276-276-276"></path></g></svg>
-</button>
+        <a target="_blank" class="text-neutral-700 hover:text-neutral dark:text-neutral-300" href="" title="" aria-label="">{{< icon "github" >}}</a>
+        <!-- Github -->
+        <a target="_blank" class="rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label="">{{< icon "github" >}}</a>
+        <!-- Github -->
+        <a target="_blank" class="rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label="">{{< icon "github" >}}</a>
     </div>
   </div>
 </section>
@@ -809,10 +766,6 @@ data: {
   Learning from ees
 </p>
 </div>
-<div class="rounded-xl border border-primary-500 p-6 shadow-xl">
-    <div class="flex justify-center items-center">
-    <span class="text-5xl">📚</span>
-    </div>
     <div class="lg:py-6">
         <div class="flex">
        <div class="flex flex-col items-center mr-4">
@@ -861,7 +814,7 @@ data: {
            <svg fill="#e29818" height="32px" width="32px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" stroke="#e29818" stroke-width="0.00512"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g> <g> <path d="M484.123,394.095h-21.84v-35.472c0-15.372-12.505-27.878-27.878-27.878h-16.444v-35.471 c0-15.372-12.505-27.878-27.878-27.878H121.917c-15.372,0-27.878,12.505-27.878,27.878v35.471H77.596 c-15.372,0-27.878,12.505-27.878,27.878v35.472h-21.84C12.505,394.095,0,406.6,0,421.973v44.706c0,5.102,4.134,9.236,9.236,9.236 h493.529c5.102,0,9.236-4.134,9.236-9.236v-44.706C512,406.6,499.495,394.095,484.123,394.095z M112.51,295.276 c0-5.187,4.22-9.407,9.407-9.407h268.166c5.187,0,9.407,4.22,9.407,9.407v35.471H112.51V295.276z M68.189,358.623 c0-5.187,4.22-9.407,9.407-9.407h25.68h305.451h25.68c5.187,0,9.407,4.22,9.407,9.407v35.472H68.189V358.623z M493.529,457.443 H18.471v-35.471c0-5.187,4.22-9.407,9.407-9.407h31.076h394.093h31.076c5.187,0,9.407,4.22,9.407,9.407V457.443z"></path> </g> </g> <g> <g> <path d="M364.245,139.532c-1.15-3.262-4.028-5.61-7.455-6.081c-3.441-0.47-6.832,1.016-8.817,3.848l-9.91,14.133 c-0.261-7.217-1.103-15.065-2.692-23.064c-4.03-20.318-14.289-49.292-40.267-71.946c-9.079-7.917-19.505-14.495-30.988-19.552 c-2.447-1.079-5.242-1.044-7.658,0.096c-2.419,1.139-4.225,3.269-4.951,5.841c-8.238,29.12-21.243,53.872-38.654,73.566 c-7.52,8.508-14.815,14.971-21.871,21.222c-13.739,12.175-26.717,23.675-34.498,45.405c-3.534,9.872-8.759,29.884-4.048,52.983 c1.021,4.998,5.9,8.227,10.897,7.204c4.998-1.02,8.223-5.897,7.204-10.896c-3.814-18.7,0.456-35.009,3.341-43.066 c6.183-17.271,16.41-26.334,29.357-37.805c7.121-6.31,15.193-13.462,23.46-22.812c17.085-19.326,30.289-42.89,39.334-70.167 c6.125,3.436,11.797,7.419,16.94,11.904c41.756,36.41,38.404,94.799,34.529,104.574c-0.339,0.856-5.481,13.612-5.898,14.646 c-1.74,4.2-0.156,9.098,3.806,11.461c4.157,2.478,9.516,1.329,12.291-2.631l24.407-34.807c5.152,21.609,7.882,51.281-3.969,79.38 c-1.983,4.7,0.22,10.117,4.919,12.099c1.172,0.494,2.388,0.729,3.586,0.729c3.602,0,7.025-2.122,8.513-5.648 C383.2,207.348,372.33,162.473,364.245,139.532z"></path> </g> </g> <g> <g> <path d="M228.197,188.998c-3.166-4-8.976-4.673-12.973-1.508c-5.048,3.996-14.27,12.73-19.329,26.334 c-3.857,10.367-4.821,20.831-2.948,31.986c0.757,4.512,4.668,7.707,9.098,7.707c0.507,0,1.022-0.042,1.54-0.128 c5.03-0.845,8.423-5.608,7.578-10.638c-1.341-7.987-0.693-15.133,2.043-22.487c3.495-9.393,9.947-15.492,13.483-18.293 C230.688,198.805,231.363,192.996,228.197,188.998z"></path> </g> </g> </g></svg>
          </div>
        </div>
-       <div class="pt-1 pb-8">
+       <div class="pt-1">
          <p class="mb-2 text-xl font-bold">Step 1</p>
          <p class="mt-4 text-neutral-500 dark:text-neutral-300">
            Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love, kindness, flexibility.
@@ -871,11 +824,10 @@ data: {
     </div>
   </div>
   </div>
- <div class="mt-10 flex justify-center">
-  <a href="">
+ <div class="flex justify-center">
     <a href="">
     <button
-      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 mt-6 border border-primary-500 hover:border-transparent rounded-full">
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold py-2 px-4 mt-6 border border-primary-500 hover:border-primary-900 rounded-full">
       Read more
     </button>
   </a>
@@ -1072,15 +1024,15 @@ data: {
       </div>
       <!-- Star -->
       <div class="flex-shrink-0 flex justify-center space-x-1 mt-3">
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow"  width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold"  width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow"  width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold"  width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
       </div>
       <!-- End Star -->
@@ -1124,15 +1076,15 @@ data: {
       </div>
       <!-- Star -->
       <div class="flex-shrink-0 flex justify-center space-x-1 mt-3">
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
       </div>
       <!-- End Star -->
@@ -1159,15 +1111,15 @@ data: {
       </div>
       <!-- Star -->
       <div class="flex-shrink-0 flex justify-center space-x-1 mt-3">
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M27.0352 1.6307L33.9181 16.3633C34.2173 16.6768 34.5166 16.9903 34.8158 16.9903L50.0779 19.1845C50.9757 19.1845 51.275 20.4383 50.6764 21.0652L39.604 32.3498C39.3047 32.6632 39.3047 32.9767 39.3047 33.2901L41.998 49.2766C42.2973 50.217 41.1002 50.8439 40.5017 50.5304L26.4367 43.3208C26.1375 43.3208 25.8382 43.3208 25.539 43.3208L11.7732 50.8439C10.8754 51.1573 9.97763 50.5304 10.2769 49.59L12.9702 33.6036C12.9702 33.2901 12.9702 32.9767 12.671 32.6632L1.29923 21.0652C0.700724 20.4383 0.999979 19.4979 1.89775 19.4979L17.1598 17.3037C17.459 17.3037 17.7583 16.9903 18.0575 16.6768L24.9404 1.6307C25.539 0.69032 26.736 0.69032 27.0352 1.6307Z" fill="currentColor"/></svg>
-        <svg class="h-4 w-4" style="color:yellow" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg class="h-4 w-4" style="color:gold" width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M49.6867 20.0305C50.2889 19.3946 49.9878 18.1228 49.0846 18.1228L33.7306 15.8972C33.4296 15.8972 33.1285 15.8972 32.8275 15.2613L25.9032 0.317944C25.6021 0 25.3011 0 25 0V42.6046C25 42.6046 25.3011 42.6046 25.6021 42.6046L39.7518 49.9173C40.3539 50.2352 41.5581 49.5994 41.2571 48.6455L38.5476 32.4303C38.5476 32.1124 38.5476 31.7944 38.8486 31.4765L49.6867 20.0305Z" fill="#cbd5e1"/>
           <path d="M0.313299 20.0305C-0.288914 19.3946 0.0122427 18.1228 0.915411 18.1228L16.2694 15.8972C16.5704 15.8972 16.8715 15.8972 17.1725 15.2613L24.0968 0.317944C24.3979 0 24.6989 0 25 0V42.6046C25 42.6046 24.6989 42.6046 24.3979 42.6046L10.2482 49.9173C9.64609 50.2352 8.44187 49.5994 8.74292 48.6455L11.4524 32.4303C11.4524 32.1124 11.4524 31.7944 11.1514 31.4765L0.313299 20.0305Z" fill="currentColor"/></svg>
       </div>
