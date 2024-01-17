@@ -582,15 +582,98 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
           Ask and You shall receive
         </h2>
         <p class="text-xl">
-          I'll answer in working days in 48 hours
+          We'd love to talk about how we can help you.
         </p>
         </div>
-        <p class="text-lg mb-10 lg:mb-14">
+        <p class="text-lg">
           Languages spoken and written:<br> English 🇬🇧, Spanish 🇪🇸, Czech 🇨🇿
         </p>
-        <a href="#" class="inline-flex justify-center items-center mb-10 py-2 px-4 sm:ms-4 text-center bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">
-          📨 Contact form
-        </a><br>
+        <!-- Contact Us -->
+<div class="max-w-[85rem] px-4 mb-10 sm:px-6 lg:px-8 mx-auto">
+  <div class="max-w-2xl lg:max-w-5xl mx-auto">
+    <div class="mt-12 grid items-center lg:grid-cols-2 gap-6 lg:gap-16">
+      <!-- Card -->
+      <div class="flex flex-col border rounded-xl p-4 sm:p-6 lg:p-8 dark:border-gray-700">
+        <h2 class="mb-8 text-xl font-semibold text-gray-800 dark:text-gray-200">
+          Fill in the form
+        </h2>
+        <form action="https://formspree.io/f/mbjnlzov" method="POST">
+          <div class="grid gap-4">
+            <!-- Grid -->
+              <div>
+                <label for="hs-firstname-contacts-1 name" class="sr-only form-label">Name</label>
+                <input type="text" name="name" id="name" class="py-3 px-4 block w-full border-gray-200 rounded-lg text-sm focus:border-primary-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-primary-500 dark:focus:ring-gray-600 form-input" placeholder="Name" type="text">
+              </div>
+            <div>
+              <label for="hs-email-contacts-1 email" class="sr-only form-label">Email</label>
+              <input type="email" name="hs-email-contacts-1 email" id="hs-email-contacts-1 email" autocomplete="email" class="py-3 px-4 block w-full border-gray-200 rounded-lg text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600 form-input" placeholder="Email" type="email">
+            </div>
+            <div>
+              <label for="hs-about-contacts-1 message" class="sr-only from-label">Message</label>
+              <textarea id="hs-about-contacts-1 message" name="hs-about-contacts-1 message" rows="4" class="py-3 px-4 block w-full border-gray-200 rounded-lg text-sm focus:border-blue-500 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-gray-700 dark:text-gray-400 dark:focus:ring-gray-600 form-input" placeholder="Message goes here"></textarea>
+            </div>
+          </div>
+          <!-- End Grid -->
+          <div class="mt-4 grid">
+            <button type="submit" class="py-2 px-4 inline-flex justify-center items-center gap-x-2 bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">Send inquiry</button>
+          </div>
+          <div class="mt-3 text-center">
+            <p class="text-sm text-gray-500">
+              We'll get back to you in 1-2 business days.
+            </p>
+          </div>
+        </form>
+      </div>
+      <!-- End Card -->
+      <div class="text-left">
+        <!-- Icon Block -->
+         <div class="flex">
+       <div class="flex flex-col mr-4">
+         💯
+       </div>
+       <div class="pb-8">
+         <p class="font-bold">Step 2</p>
+         <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
+           Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+         <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+              example@site.com
+            </a>
+       </div>
+     </div>
+     <div class="flex">
+       <div class="flex flex-col mr-4">
+         💯
+       </div>
+       <div class="pb-8">
+         <p class="font-bold">Step 2</p>
+         <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
+           Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+         <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+              example@site.com
+            </a>
+       </div>
+     </div>
+     <div class="flex">
+       <div class="flex flex-col mr-4">
+         💯
+       </div>
+       <div class="pb-8">
+         <p class="font-bold">Step 2</p>
+         <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-300">
+           Burning question. Write down. What do I really want? I might think about health, realtionships, money, work. I might think about values such as Love.
+         </p>
+         <a class="mt-2 inline-flex items-center gap-x-2 text-sm font-medium text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+              example@site.com
+            </a>
+       </div>
+     </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Contact Us -->
         <!-- Github -->
         <a target="_blank" class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800" href="" title="" aria-label=""></a>
 <button
