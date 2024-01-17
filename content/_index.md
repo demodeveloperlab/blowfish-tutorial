@@ -333,11 +333,11 @@ FEATURES. What you get with AstroWind. One of the most professional and comprehe
 </div>
 <div class="mt-10 flex justify-center">
   <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 sm:ms-4 text-center rounded-full bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent">
-           Eevents on Eventbrite
+           Eventbrite
         </a>
         <span class="mr-2"></span>
           <a href="#" class="inline-flex justify-center items-center mt-6 py-2 px-4 text-center bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold border border-primary-500 hover:border-transparent rounded-full">
-            All events
+            Offering
         </a>
 </div>
 </section>
